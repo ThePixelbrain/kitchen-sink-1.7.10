@@ -1,0 +1,13 @@
+name = "CCTweaks"
+filename = "CCTweaks-1.7.10-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e849847666654a201e8e26e0186b2c956ac7b5b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2335033
+project-id = 232180

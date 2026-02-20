@@ -1,0 +1,15 @@
+name = "GregTech4"
+filename = "gregtechmod-v417.61LE.jar"
+side = "both"
+
+[download]
+url = "https://github.com/DrParadox7/GregTech4/releases/download/v417.61LE/gregtechmod-v417.61LE.jar"
+hash-format = "sha256"
+hash = "f99d5709f0a8d11fcdb8d5896e81e9340effa418fe3f3a538b2c52d6491b4344"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "DrParadox7/GregTech4"
+tag = "v417.61LE"

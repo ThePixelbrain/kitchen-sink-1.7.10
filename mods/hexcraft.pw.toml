@@ -1,0 +1,13 @@
+name = "HEXCraft"
+filename = "HEXCraft-1.7.10-0.13.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae7d21777f082f8700d19ca3de9c993d0ca3a5af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3034568
+project-id = 230867

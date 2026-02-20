@@ -1,0 +1,15 @@
+name = "TinkersMechworks"
+filename = "TMechworks-0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/TinkersMechworks/releases/download/0.4.1/TMechworks-0.4.1.jar"
+hash-format = "sha256"
+hash = "1537134937b425001a96f498b94a4bfb7474f2b1d9d387ce208eeb502b47e841"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/TinkersMechworks"
+tag = "0.4.1"

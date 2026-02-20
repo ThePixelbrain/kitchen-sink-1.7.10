@@ -1,0 +1,15 @@
+name = "OpenModsLib"
+filename = "OpenModsLibs-0.10.13.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.13/OpenModsLibs-0.10.13.jar"
+hash-format = "sha256"
+hash = "6715aefb5ff29470b37390feb7d2d2247f93d5fecbb84fd4f26746a9edd2b096"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/OpenModsLib"
+tag = "0.10.13"

@@ -1,0 +1,13 @@
+name = "DragonAPI"
+filename = "DragonAPI 1.7.10 V33b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef8a543e5e66f6fee96090076dccad8976c49914"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4722480
+project-id = 235591

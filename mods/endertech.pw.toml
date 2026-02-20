@@ -1,0 +1,13 @@
+name = "EnderTech"
+filename = "EnderTech-1.7.10-0.3.2.405.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46464ba96303f5439dbd5248fbde26ec91fd7a5e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2260928
+project-id = 223428

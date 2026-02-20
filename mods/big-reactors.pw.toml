@@ -1,0 +1,13 @@
+name = "Big Reactors"
+filename = "BigReactors-0.4.3A.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4766538f3f13055e53292d6bb863046294e078f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2282591
+project-id = 241994

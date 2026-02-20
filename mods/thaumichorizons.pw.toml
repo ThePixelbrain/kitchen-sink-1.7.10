@@ -1,0 +1,15 @@
+name = "ThaumicHorizons"
+filename = "ThaumicHorizons-1.8.11.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.11/ThaumicHorizons-1.8.11.jar"
+hash-format = "sha256"
+hash = "c0958aa03a535d51b20347ce4d357b3d096c86161b3b6b3260efe43e168ee4ec"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/ThaumicHorizons"
+tag = "1.8.11"

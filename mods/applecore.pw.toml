@@ -1,0 +1,15 @@
+name = "AppleCore"
+filename = "AppleCore-3.3.9.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/AppleCore/releases/download/3.3.9/AppleCore-3.3.9.jar"
+hash-format = "sha256"
+hash = "742af5bfe33b92d5fc67f862b536284ae20912b19568e5aacd37b57304c8351b"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/AppleCore"
+tag = "3.3.9"

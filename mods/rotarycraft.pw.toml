@@ -1,0 +1,13 @@
+name = "RotaryCraft"
+filename = "RotaryCraft 1.7.10 V33a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6e2fa45de526a3c29e1690e067b01fd6c48c2d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4721191
+project-id = 235596

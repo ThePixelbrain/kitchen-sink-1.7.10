@@ -1,0 +1,15 @@
+name = "BedcraftFixes"
+filename = "bedcraftfixes-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ThePixelbrain/BedcraftFixes/releases/download/1.3.1/bedcraftfixes-1.3.1.jar"
+hash-format = "sha256"
+hash = "54e9a36abed8f1116cf8dd11b27ad605bed2426350491c6db45c7320559b0763"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "ThePixelbrain/BedcraftFixes"
+tag = "1.3.1"

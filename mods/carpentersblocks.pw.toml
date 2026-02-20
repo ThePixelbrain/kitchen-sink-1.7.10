@@ -1,0 +1,15 @@
+name = "CarpentersBlocks"
+filename = "CarpentersBlocks-3.7.1-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/CarpentersBlocks/releases/download/3.7.1-GTNH/CarpentersBlocks-3.7.1-GTNH.jar"
+hash-format = "sha256"
+hash = "7c40a4c7d1f0090147adcce5653bfb9a31fc698d5eceb4772bbf1c9ac07c200c"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/CarpentersBlocks"
+tag = "3.7.1-GTNH"

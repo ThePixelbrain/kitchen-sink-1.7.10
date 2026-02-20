@@ -1,0 +1,15 @@
+name = "OpenComputers"
+filename = "OpenComputers-1.12.18-GTNH-pre.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.18-GTNH-pre/OpenComputers-1.12.18-GTNH-pre.jar"
+hash-format = "sha256"
+hash = "2629d322d7bf70db02a38a53d1db61df9762618e8cc65d587f111fef38dc8286"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/OpenComputers"
+tag = "1.12.18-GTNH-pre"

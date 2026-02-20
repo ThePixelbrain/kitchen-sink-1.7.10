@@ -1,0 +1,13 @@
+name = "Sanguimancy"
+filename = "Sanguimancy-1.7.10-1.1.9-35.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90622929f5e073fbafcd11b388a9949ac8710506"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2299730
+project-id = 223722

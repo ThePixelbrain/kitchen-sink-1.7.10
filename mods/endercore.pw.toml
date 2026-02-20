@@ -1,0 +1,15 @@
+name = "EnderCore"
+filename = "endercore-0.5.6-pre.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/EnderCore/releases/download/0.5.6-pre/endercore-0.5.6-pre.jar"
+hash-format = "sha256"
+hash = "1df2d154079f953f9cff98939c790e418c6229568fea699ae9660525d42ba44a"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/EnderCore"
+tag = "0.5.6-pre"

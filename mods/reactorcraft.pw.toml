@@ -1,0 +1,13 @@
+name = "ReactorCraft"
+filename = "ReactorCraft 1.7.10 V33a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a6c89e1084ae4199af6556ab8fffa0cde41626e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4721203
+project-id = 235593

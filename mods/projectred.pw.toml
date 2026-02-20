@@ -1,0 +1,15 @@
+name = "ProjectRed"
+filename = "ProjRed-4.12.26-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.26-GTNH/ProjRed-4.12.26-GTNH.jar"
+hash-format = "sha256"
+hash = "a8bd1ca3ec32d013ce12021e85eae00d91091fcf460a37650b67e975d88ad812"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/ProjectRed"
+tag = "4.12.26-GTNH"

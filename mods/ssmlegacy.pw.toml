@@ -1,0 +1,13 @@
+name = "Super Sound Muffler: Legacy"
+filename = "ssmlegacy-mc1.7.10-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92ff50c20c1a80c7816280bda2ea4a62624dbfc2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5399486
+project-id = 886305

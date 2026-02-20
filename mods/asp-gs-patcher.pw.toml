@@ -1,0 +1,13 @@
+name = "ASP + GS Patcher"
+filename = "Patcher.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "10c0e19b453d18e017ae25d648d18b62f78f6c11"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2287047
+project-id = 242878

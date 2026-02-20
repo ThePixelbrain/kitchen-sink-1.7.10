@@ -1,0 +1,15 @@
+name = "TCNodeTracker"
+filename = "tcnodetracker-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/TCNodeTracker/releases/download/1.4.2/tcnodetracker-1.4.2.jar"
+hash-format = "sha256"
+hash = "7779b64dfb30e8c06aadf8fee5f130ccf5d824f9f9531d9db9f2135f3c463f99"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/TCNodeTracker"
+tag = "1.4.2"

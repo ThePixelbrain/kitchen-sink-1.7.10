@@ -1,0 +1,13 @@
+name = "Waterhook"
+filename = "waterhooks-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c58e49c20c6479ad17a96bb8559726289d35f724"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2297446
+project-id = 236204

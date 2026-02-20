@@ -1,0 +1,15 @@
+name = "waila"
+filename = "Waila-1.19.22.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/waila/releases/download/1.19.22/Waila-1.19.22.jar"
+hash-format = "sha256"
+hash = "a56f5f8653f70125766656117b5f41400b5aeed6c10d38b77cdbf49699934271"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/waila"
+tag = "1.19.22"

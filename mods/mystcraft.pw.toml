@@ -1,0 +1,13 @@
+name = "Mystcraft"
+filename = "mystcraft-1.7.10-0.12.3.04.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9299a8cd229b004f894b1906be7ab89ae08cdd7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2417042
+project-id = 224599

@@ -1,0 +1,15 @@
+name = "OpenBlocks"
+filename = "OpenBlocks-1.12.5-GTNH-pre.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.12.5-GTNH-pre/OpenBlocks-1.12.5-GTNH-pre.jar"
+hash-format = "sha256"
+hash = "2a80aeb4bad384f80dd79e51f5dcd11fdef7ebe2e6b1a14db6a1b9391e8d487c"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/OpenBlocks"
+tag = "1.12.5-GTNH-pre"

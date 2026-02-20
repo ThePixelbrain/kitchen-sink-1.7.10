@@ -1,0 +1,13 @@
+name = "Funky Locomotion"
+filename = "funky-locomotion-1.7.10-beta-7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0acff6d929f4f995dc4b7b4e7d768390ea89d34f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2252223
+project-id = 224190

@@ -1,0 +1,15 @@
+name = "Steve-s-Factory-Manager"
+filename = "StevesFactoryManager-1.3.7-GTNH-pre.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Steve-s-Factory-Manager/releases/download/1.3.7-GTNH-pre/StevesFactoryManager-1.3.7-GTNH-pre.jar"
+hash-format = "sha256"
+hash = "1c5533cf2a1d3aa62ab1948858776129fd136d47abc4b18896083e32008de9d7"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/Steve-s-Factory-Manager"
+tag = "1.3.7-GTNH-pre"

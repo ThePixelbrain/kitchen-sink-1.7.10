@@ -1,0 +1,15 @@
+name = "ChiselTones"
+filename = "chiseltones-1.2.0-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ChiselTones/releases/download/1.2.0-GTNH/chiseltones-1.2.0-GTNH.jar"
+hash-format = "sha256"
+hash = "2ba342849dee538490091a506b87fef63b107af2e672a910f85497b45c092d34"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/ChiselTones"
+tag = "1.2.0-GTNH"

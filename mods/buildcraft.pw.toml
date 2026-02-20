@@ -1,0 +1,15 @@
+name = "BuildCraft"
+filename = "buildcraft-7.1.56-pre.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.56-pre/buildcraft-7.1.56-pre.jar"
+hash-format = "sha256"
+hash = "f6b80427730280b860b20198ee4eaa50094f2ce62912b9b744380a08502afbe1"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/BuildCraft"
+tag = "7.1.56-pre"

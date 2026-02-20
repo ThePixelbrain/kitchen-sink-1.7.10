@@ -1,0 +1,13 @@
+name = "BiblioCraft: BiblioWoods Forestry Edition"
+filename = "BiblioWoods[Forestry][v1.7].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1eb62a981d5648ffb1c0c6379dad4b396e9b55eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2229574
+project-id = 228363

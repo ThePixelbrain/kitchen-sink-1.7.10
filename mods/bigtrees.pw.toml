@@ -1,0 +1,13 @@
+name = "BigTrees"
+filename = "bigtrees-0.2-1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ea1b2bce1951dece100a256aea8b8f13771e016"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2273910
+project-id = 239267

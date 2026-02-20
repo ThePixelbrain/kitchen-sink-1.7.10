@@ -1,0 +1,15 @@
+name = "Binnie"
+filename = "binnie-mods-2.6.14.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.14/binnie-mods-2.6.14.jar"
+hash-format = "sha256"
+hash = "ae74c6688db936964e43dba5740a51b6eaf521258916c630753359ea963f5bd3"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/Binnie"
+tag = "2.6.14"

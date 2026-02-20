@@ -1,0 +1,15 @@
+name = "SC2"
+filename = "StevesCarts-2.3.12.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/SC2/releases/download/2.3.12/StevesCarts-2.3.12.jar"
+hash-format = "sha256"
+hash = "cb561db0bed4a106b483a739718f148aee26ec28724d6f831042c159a3f17af6"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/SC2"
+tag = "2.3.12"

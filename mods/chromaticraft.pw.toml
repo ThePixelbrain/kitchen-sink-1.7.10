@@ -1,0 +1,13 @@
+name = "ChromatiCraft"
+filename = "ChromatiCraft 1.7.10 V33a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ad811c7b1a9fa88887974cd4c2c9ef8e717593f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4721192
+project-id = 235590

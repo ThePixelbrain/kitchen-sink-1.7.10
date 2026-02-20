@@ -1,0 +1,13 @@
+name = "Void Monster"
+filename = "VoidMonster 1.7.10 V33a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b8d23f447979c8204e27416ce1d4cd32459913c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4721208
+project-id = 235609

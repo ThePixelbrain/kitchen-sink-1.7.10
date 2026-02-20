@@ -1,0 +1,15 @@
+name = "ThaumicEnergistics"
+filename = "thaumicenergistics-1.7.31-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.31-GTNH/thaumicenergistics-1.7.31-GTNH.jar"
+hash-format = "sha256"
+hash = "d26ddf0c3176041185fe587c89e7752fdf9f19e81c4a4bec9e4ac415b18fd789"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/ThaumicEnergistics"
+tag = "1.7.31-GTNH"

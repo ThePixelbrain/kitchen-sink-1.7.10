@@ -1,0 +1,15 @@
+name = "Gravitation-Suite-Neo"
+filename = "gravisuiteneo-1.3.8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Gravitation-Suite-Neo/releases/download/1.3.8/gravisuiteneo-1.3.8.jar"
+hash-format = "sha256"
+hash = "70b3a2bfb01f6a18834a443ab54eb8a99476cc0eac18e0d893840f982f4ca766"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/Gravitation-Suite-Neo"
+tag = "1.3.8"

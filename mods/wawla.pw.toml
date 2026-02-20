@@ -1,0 +1,15 @@
+name = "WAWLA"
+filename = "Wawla-1.3.3-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/WAWLA/releases/download/1.3.3-GTNH/Wawla-1.3.3-GTNH.jar"
+hash-format = "sha256"
+hash = "788076ebf369549640063229b66f4ec3980c0fecc1f7ca0294e8672f28889bd6"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/WAWLA"
+tag = "1.3.3-GTNH"

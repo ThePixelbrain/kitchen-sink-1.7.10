@@ -1,0 +1,15 @@
+name = "BrandonsCore"
+filename = "BrandonsCore-1.2.1-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/BrandonsCore/releases/download/1.2.1-GTNH/BrandonsCore-1.2.1-GTNH.jar"
+hash-format = "sha256"
+hash = "b721827c4e6172715ee39ae3789057e5663a0f24be1562e12ea4717652cea603"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/BrandonsCore"
+tag = "1.2.1-GTNH"

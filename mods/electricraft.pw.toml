@@ -1,0 +1,13 @@
+name = "ElectriCraft"
+filename = "ElectriCraft 1.7.10 V33a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09dcc1bab7a534334f5e3194c34630ea6334de41"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4721198
+project-id = 235594

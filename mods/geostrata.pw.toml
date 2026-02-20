@@ -1,0 +1,13 @@
+name = "GeoStrata"
+filename = "GeoStrata 1.7.10 V33a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26853e2fc6cd9f9d07fb951248bda3ef5ab301e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4721200
+project-id = 235601

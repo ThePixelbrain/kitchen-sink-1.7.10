@@ -1,0 +1,15 @@
+name = "ThaumicBoots"
+filename = "thaumicboots-1.5.8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ThaumicBoots/releases/download/1.5.8/thaumicboots-1.5.8.jar"
+hash-format = "sha256"
+hash = "0a7c39cc35afede7329e77aea343d39c0ab0c289134e9777103cef6a3f3507d0"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/ThaumicBoots"
+tag = "1.5.8"

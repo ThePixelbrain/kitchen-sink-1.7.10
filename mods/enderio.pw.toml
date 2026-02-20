@@ -1,0 +1,15 @@
+name = "EnderIO"
+filename = "EnderIO-2.10.20.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.20/EnderIO-2.10.20.jar"
+hash-format = "sha256"
+hash = "7e5b6af89fb33b4a3c2f27825f61b723f889f82c76afe5df7023692d8c903f60"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/EnderIO"
+tag = "2.10.20"

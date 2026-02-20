@@ -1,0 +1,15 @@
+name = "Natura"
+filename = "Natura-2.8.15.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Natura/releases/download/2.8.15/Natura-2.8.15.jar"
+hash-format = "sha256"
+hash = "0805ae54306268b1b53c4fca91ea2634239441e16a1273f3452b9231edb72c2a"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/Natura"
+tag = "2.8.15"

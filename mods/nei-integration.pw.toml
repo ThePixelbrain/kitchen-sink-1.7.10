@@ -1,0 +1,15 @@
+name = "NEI-Integration"
+filename = "NEIIntegration-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/NEI-Integration/releases/download/1.5.1/NEIIntegration-1.5.1.jar"
+hash-format = "sha256"
+hash = "a309f987886c7a55c68a36972f387957c5ab52c5463940a8b0c4e863bde36ac2"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/NEI-Integration"
+tag = "1.5.1"

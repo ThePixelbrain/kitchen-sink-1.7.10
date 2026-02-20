@@ -1,0 +1,13 @@
+name = "NEI Mystcraft Plugin"
+filename = "MystNEI-Plugin-1.7.10-02.01.09.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8cdde95d9cec80b9cb1e008787f562420a00a0d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2264027
+project-id = 228923

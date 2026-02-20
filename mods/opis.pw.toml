@@ -1,0 +1,15 @@
+name = "Opis"
+filename = "Opis-1.4.8-mapless.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Opis/releases/download/1.4.8-mapless/Opis-1.4.8-mapless.jar"
+hash-format = "sha256"
+hash = "cb44a563f3f8ec260c9511c38716040a9478503d595c2048118bfd276378f565"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/Opis"
+tag = "1.4.8-mapless"

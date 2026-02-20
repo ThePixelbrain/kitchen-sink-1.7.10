@@ -1,0 +1,15 @@
+name = "BetterAchievements"
+filename = "BetterAchievements-0.3.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/BetterAchievements/releases/download/0.3.2/BetterAchievements-0.3.2.jar"
+hash-format = "sha256"
+hash = "ac92d07e805057ca01720454e4ed542d1ab18f635b85574253b9712a1d26e5e0"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/BetterAchievements"
+tag = "0.3.2"

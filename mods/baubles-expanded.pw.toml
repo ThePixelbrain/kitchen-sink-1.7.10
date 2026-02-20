@@ -1,0 +1,15 @@
+name = "Baubles-Expanded"
+filename = "BaublesExpanded-2.2.7-GTNH-pre.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.2.7-GTNH-pre/BaublesExpanded-2.2.7-GTNH-pre.jar"
+hash-format = "sha256"
+hash = "c10a169da1bf5e25953fef909dcdd894825babf52b87f9b1dda8c35dbcfd2689"
+
+[update]
+[update.github]
+branch = "gtnh"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/Baubles-Expanded"
+tag = "2.2.7-GTNH-pre"

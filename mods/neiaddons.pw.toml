@@ -1,0 +1,15 @@
+name = "neiaddons"
+filename = "NEIAddons-1.18.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/neiaddons/releases/download/1.18.0/NEIAddons-1.18.0.jar"
+hash-format = "sha256"
+hash = "dd5925a9e097aae4b6faeab0e31c8e500d5e5d0ab249a900ffbc774e8412270f"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/neiaddons"
+tag = "1.18.0"

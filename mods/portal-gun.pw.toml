@@ -1,0 +1,13 @@
+name = "Portal Gun"
+filename = "PortalGun-4.0.0-beta-6-fix-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d12fbb5c8bc1acfffea96b896bae74619e26534"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2480016
+project-id = 229084

@@ -1,0 +1,13 @@
+name = "OpenPeripheralCore"
+filename = "OpenPeripheralCore-1.7.10-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9263810270fc8f395600bc45b0d6b3f72decc079"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2386735
+project-id = 228817

@@ -1,0 +1,15 @@
+name = "BuildCraftCompat"
+filename = "buildcraft-compat-7.1.19-pre.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/BuildCraftCompat/releases/download/7.1.19-pre/buildcraft-compat-7.1.19-pre.jar"
+hash-format = "sha256"
+hash = "82f900a0acb31c3621602a7359c3becac35c4ef9f2e89284cd5d01bdab2f1c55"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/BuildCraftCompat"
+tag = "7.1.19-pre"

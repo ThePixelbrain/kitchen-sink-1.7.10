@@ -1,0 +1,15 @@
+name = "TiC-Tooltips"
+filename = "TiCTooltips-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/TiC-Tooltips/releases/download/1.4.0/TiCTooltips-1.4.0.jar"
+hash-format = "sha256"
+hash = "3ff8c4f812bd71592696c01f4dabf6cf5930b686db5be79f2e1eaeaf1c0c099d"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/TiC-Tooltips"
+tag = "1.4.0"
