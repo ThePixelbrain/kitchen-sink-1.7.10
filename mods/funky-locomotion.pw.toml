@@ -3,8 +3,8 @@ filename = "funky-locomotion-1.7.10-beta-7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0acff6d929f4f995dc4b7b4e7d768390ea89d34f"
+hash-format = "sha256"
+hash = "3fed2f0400a983083fcd39303580362fff0802d59649f3285b1df66c414c5408"
 mode = "metadata:curseforge"
 
 [update]

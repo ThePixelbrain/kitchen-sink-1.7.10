@@ -3,8 +3,8 @@ filename = "industrialcraft-2-2.2.828-experimental.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "64f71495feddba295ed4392797d48d7dcfcfc779"
+hash-format = "sha256"
+hash = "de1d4597972be036eccd1c3b37e9980c3c9d9cdb92f52df2bf470971873893f6"
 mode = "metadata:curseforge"
 
 [update]

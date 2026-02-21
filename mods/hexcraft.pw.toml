@@ -3,8 +3,8 @@ filename = "HEXCraft-1.7.10-0.13.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ae7d21777f082f8700d19ca3de9c993d0ca3a5af"
+hash-format = "sha256"
+hash = "3cc05f35a8191ca9f15c5b6be28de9a7e4762575cdeb521581c694791a7e8330"
 mode = "metadata:curseforge"
 
 [update]

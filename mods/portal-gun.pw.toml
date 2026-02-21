@@ -3,8 +3,8 @@ filename = "PortalGun-4.0.0-beta-6-fix-1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6d12fbb5c8bc1acfffea96b896bae74619e26534"
+hash-format = "sha256"
+hash = "1374895f32445f20e8eec428e4a36a581ad2072d98d616a2d4cb13841066a891"
 mode = "metadata:curseforge"
 
 [update]

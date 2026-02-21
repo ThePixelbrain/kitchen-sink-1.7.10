@@ -3,8 +3,8 @@ filename = "ThermalDynamics-[1.7.10]1.2.1-172.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e22847e8b2286219c1c8833ba264916a6729762d"
+hash-format = "sha256"
+hash = "f35ff1bb6d436fb37fcbcd9632107424989e1116a096f23f07c58d7ef8755a66"
 mode = "metadata:curseforge"
 
 [update]

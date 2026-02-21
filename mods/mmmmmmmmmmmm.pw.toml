@@ -3,8 +3,8 @@ filename = "MmmMmmMmmMmm-1.7.10-1.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8d61af07af91064c115a4ea2c57deba44a936d13"
+hash-format = "sha256"
+hash = "525c4154e4c355d64ff8bc7faa535030c343d4531beaf9e4b1ded9cd318e955e"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "ExtraTiC-1.7.10-1.4.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2453d27979b69339e23c14d6fecb1a721c0a4ef1"
+hash-format = "sha256"
+hash = "59788ba4dc3dcaef029a41b4edff9c65a1161841121a61a7c4e5f8d36ac9c5e5"
 mode = "metadata:curseforge"
 
 [update]

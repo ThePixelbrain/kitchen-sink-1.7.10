@@ -3,8 +3,8 @@ filename = "waterhooks-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c58e49c20c6479ad17a96bb8559726289d35f724"
+hash-format = "sha256"
+hash = "1bbb01959062df824580db405c05ed5ff77d2155b392309028e6ecb692e5a91a"
 mode = "metadata:curseforge"
 
 [update]

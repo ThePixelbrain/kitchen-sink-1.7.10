@@ -3,8 +3,8 @@ filename = "BiblioWoods[Natura][v1.5].jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5002bceb9d04afc5738421ea02853b6de530c005"
+hash-format = "sha256"
+hash = "81a825867251574690780b6d50807dbfe701c58f06bed67f05d2cdeb85cc99c9"
 mode = "metadata:curseforge"
 
 [update]

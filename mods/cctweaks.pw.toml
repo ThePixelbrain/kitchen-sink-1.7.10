@@ -3,8 +3,8 @@ filename = "CCTweaks-1.7.10-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3e849847666654a201e8e26e0186b2c956ac7b5b"
+hash-format = "sha256"
+hash = "436a1f21b665f47d4c94de96331adfb300d487cb229c4875af1adfaf09a28393"
 mode = "metadata:curseforge"
 
 [update]

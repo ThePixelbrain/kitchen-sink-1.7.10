@@ -3,8 +3,8 @@ filename = "RotaryCraft 1.7.10 V33a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b6e2fa45de526a3c29e1690e067b01fd6c48c2d4"
+hash-format = "sha256"
+hash = "be58a76249d3dade1306670653a0c2454fd2f0f157fd5291fb7b86d9aed46efc"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "BiblioWoods[Forestry][v1.7].jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1eb62a981d5648ffb1c0c6379dad4b396e9b55eb"
+hash-format = "sha256"
+hash = "5d2fc7dfe753698fcc0cf2e093c24c5ad08cfdd736ce06d69570eefc267e3ad1"
 mode = "metadata:curseforge"
 
 [update]

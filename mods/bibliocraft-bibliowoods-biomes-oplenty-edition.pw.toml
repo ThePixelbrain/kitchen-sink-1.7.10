@@ -3,8 +3,8 @@ filename = "BiblioWoods[BiomesOPlenty][v1.9].jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "24d481d8b9722b0da67eaa4bd14cee43f1b92736"
+hash-format = "sha256"
+hash = "a354e4f6d8864347901fde09880a2b8ec6d914225955f025ad08560275a74f18"
 mode = "metadata:curseforge"
 
 [update]

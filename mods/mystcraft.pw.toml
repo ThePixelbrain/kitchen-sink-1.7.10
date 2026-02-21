@@ -3,8 +3,8 @@ filename = "mystcraft-1.7.10-0.12.3.04.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b9299a8cd229b004f894b1906be7ab89ae08cdd7"
+hash-format = "sha256"
+hash = "2e04cf46c5b86ffc2ff991d606d6dc9cf5067715ded021705306de0cbebf3265"
 mode = "metadata:curseforge"
 
 [update]

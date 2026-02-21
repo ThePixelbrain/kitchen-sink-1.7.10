@@ -3,8 +3,8 @@ filename = "DragonAPI 1.7.10 V33b.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ef8a543e5e66f6fee96090076dccad8976c49914"
+hash-format = "sha256"
+hash = "b4f66b0ab76507c8e807c0d39e7a3f50fb46cfbbe4d44a44ca94c527f3ca439c"
 mode = "metadata:curseforge"
 
 [update]

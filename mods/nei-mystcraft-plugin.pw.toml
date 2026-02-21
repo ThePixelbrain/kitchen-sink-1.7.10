@@ -3,8 +3,8 @@ filename = "MystNEI-Plugin-1.7.10-02.01.09.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8cdde95d9cec80b9cb1e008787f562420a00a0d2"
+hash-format = "sha256"
+hash = "e6828927fc04a265546d380a10f3c2f977758f0ea7b7acc08f6f4bb24bb2dfc8"
 mode = "metadata:curseforge"
 
 [update]

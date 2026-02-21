@@ -3,8 +3,8 @@ filename = "EnderTech-1.7.10-0.3.2.405.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "46464ba96303f5439dbd5248fbde26ec91fd7a5e"
+hash-format = "sha256"
+hash = "cb264e0777cb934354b06c4c478685645ebb543a8cb13bdf5e0bf52cf7de9b81"
 mode = "metadata:curseforge"
 
 [update]

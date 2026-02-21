@@ -3,8 +3,8 @@ filename = "VoidMonster 1.7.10 V33a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2b8d23f447979c8204e27416ce1d4cd32459913c"
+hash-format = "sha256"
+hash = "b77ec0a0ee944d3c1c42529d73e62b8c8441a9ae7d20143d773ad313adacbca6"
 mode = "metadata:curseforge"
 
 [update]

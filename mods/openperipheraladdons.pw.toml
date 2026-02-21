@@ -3,8 +3,8 @@ filename = "OpenPeripheralAddons-1.7.10-0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0f0efae6d5b6a214251c950f177d209e68e6d1ea"
+hash-format = "sha256"
+hash = "77f66f16116de34947818b8e2a58638e27ccbd4e5343b86c59fcddc227756244"
 mode = "metadata:curseforge"
 
 [update]

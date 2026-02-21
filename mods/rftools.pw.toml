@@ -3,8 +3,8 @@ filename = "rftools-4.23.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f68cb455b9bd7b88054bfb82c534a0f2e609374b"
+hash-format = "sha256"
+hash = "75caf28ecce6ef0bcf4f4880f2af44c27ac8b7f04921ce11ce8fc2e781905835"
 mode = "metadata:curseforge"
 
 [update]

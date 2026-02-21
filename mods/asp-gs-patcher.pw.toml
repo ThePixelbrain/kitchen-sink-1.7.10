@@ -3,8 +3,8 @@ filename = "Patcher.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "10c0e19b453d18e017ae25d648d18b62f78f6c11"
+hash-format = "sha256"
+hash = "e1d30c03d64ee74c2f119f01bd21833b5848bc321fbbfd6ddba82727c356a7ca"
 mode = "metadata:curseforge"
 
 [update]

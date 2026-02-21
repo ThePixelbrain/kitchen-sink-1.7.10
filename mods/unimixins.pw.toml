@@ -3,8 +3,8 @@ filename = "+unimixins-all-1.7.10-0.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "21db670c715e2a24eda05bd0c1d3b834e3949857"
+hash-format = "sha256"
+hash = "69ecf53ec808c1219fc40b98c2464b4546f035e401591effd0229a2787e10666"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "bigtrees-0.2-1.7.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3ea1b2bce1951dece100a256aea8b8f13771e016"
+hash-format = "sha256"
+hash = "282b38f06ea39b1cec2bbfd663d65fb9538d8d797e868f8d5766542daab77be4"
 mode = "metadata:curseforge"
 
 [update]

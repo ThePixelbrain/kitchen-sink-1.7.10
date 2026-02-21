@@ -3,8 +3,8 @@ filename = "OpenPeripheralIntegration-1.7.10-0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "48b80af8f059be187b17acdbd8c9f48ab1299e72"
+hash-format = "sha256"
+hash = "a22785e88576df2883f35fa7b6ddb3f1854d7c4b8bfc94b759d052bd074d2ce8"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "AgriCraft-1.7.10-1.5.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cdc3f95c7a0ad28938c3b51a4c8826852818e095"
+hash-format = "sha256"
+hash = "b1d847e0b3ef0286dcf40b5793e7a7057af79740d83797f70d45b9906f1af102"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "sampler-1.60.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f9316cc4b4ee89ad8cac916b81875fe6cada82c2"
+hash-format = "sha256"
+hash = "cbb9604ef5329843b0a3940e6c08b18980d28430ac039e73344b3445cfd69418"
 mode = "metadata:curseforge"
 
 [update]

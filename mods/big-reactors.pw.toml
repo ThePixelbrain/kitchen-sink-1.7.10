@@ -3,8 +3,8 @@ filename = "BigReactors-0.4.3A.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4766538f3f13055e53292d6bb863046294e078f2"
+hash-format = "sha256"
+hash = "771df443516a2356c15c8131a15530298d56fe758a549b0d5ba043230b97c27b"
 mode = "metadata:curseforge"
 
 [update]

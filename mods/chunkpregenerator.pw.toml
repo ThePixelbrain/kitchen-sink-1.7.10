@@ -3,8 +3,8 @@ filename = "Chunk-Pregenerator-1.7.10-4.4.9.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "371c2edca7edca97e319dca36f0ad046dceda347"
+hash-format = "sha256"
+hash = "30e405da0a8da5e1b77133410e9e514d06e3e34a41e65653297d2d538a034f58"
 mode = "metadata:curseforge"
 
 [update]

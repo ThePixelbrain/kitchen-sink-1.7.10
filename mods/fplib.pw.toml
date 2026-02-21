@@ -3,8 +3,8 @@ filename = "falsepatternlib-mc1.7.10-1.10.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ffa836c2f20d348795bc168d9bce670db2fa260e"
+hash-format = "sha256"
+hash = "9974a5b303b66e49faff0f04ef32fd377e7044632f591ee69bc1488de0f6ae69"
 mode = "metadata:curseforge"
 
 [update]
