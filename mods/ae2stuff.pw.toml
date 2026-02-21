@@ -1,15 +1,8 @@
 name = "ae2stuff"
-filename = "ae2stuff-0.10.12-GTNH-pre.jar"
+filename = "ae2stuff-0.9.9-GTNH.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/ae2stuff/releases/download/0.10.12-GTNH-pre/ae2stuff-0.10.12-GTNH-pre.jar"
+url = "https://github.com/GTNewHorizons/ae2stuff/releases/download/0.9.9-GTNH/ae2stuff-0.9.9-GTNH.jar"
 hash-format = "sha256"
-hash = "37a39097d521cc871d0f5321031fe6fc6c18b3ff21099aae4a72e9a376785203"
-
-[update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "GTNewHorizons/ae2stuff"
-tag = "0.10.12-GTNH-pre"
+hash = "cb5f798e650b0490b1fbde010005837296bf5464db8818e617fd268b93f3ab0c"

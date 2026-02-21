@@ -1,0 +1,13 @@
+name = "Ztones"
+filename = "Ztones-1.7.10-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "9e98c36568af92dbb388dfec2b36b3f0d76cb1dc284a6bbe06e98b89204b96f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2223720
+project-id = 224369

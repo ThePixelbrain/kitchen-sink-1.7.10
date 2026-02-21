@@ -1,15 +1,13 @@
 name = "Guide-API"
-filename = "guideapi-1.1.0.jar"
+filename = "Guide-API-1.7.10-1.0.1-29.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/Guide-API/releases/download/1.1.0/guideapi-1.1.0.jar"
 hash-format = "sha256"
-hash = "74ee0a7704c0415b2bcfdca1957ae990d930a4e2c6b97161cd80a3b266afc3e1"
+hash = "634966e3908a1ef712905701ca4301e0f7c4062d132f899eb847ea5b25e61b58"
+mode = "metadata:curseforge"
 
 [update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "GTNewHorizons/Guide-API"
-tag = "1.1.0"
+[update.curseforge]
+file-id = 2287184
+project-id = 228832

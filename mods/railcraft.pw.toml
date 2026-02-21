@@ -1,15 +1,8 @@
 name = "Railcraft"
-filename = "Railcraft-9.17.20.jar"
+filename = "Railcraft-9.16.33.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/Railcraft/releases/download/9.17.20/Railcraft-9.17.20.jar"
+url = "https://github.com/GTNewHorizons/Railcraft/releases/download/9.16.33/Railcraft-9.16.33.jar"
 hash-format = "sha256"
-hash = "35279f72d16fac7be739d07e94b08e2ff5bfc85bf111ca45ff4e3fea7ea5ba27"
-
-[update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "GTNewHorizons/Railcraft"
-tag = "9.17.20"
+hash = "6bd57ff9f788310971ee0acb08128004494bffd292563514a3b1244d18141306"

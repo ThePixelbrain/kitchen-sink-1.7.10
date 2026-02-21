@@ -1,15 +1,8 @@
 name = "WAILAPlugins"
-filename = "WAILAPlugins-0.7.2.jar"
+filename = "WAILAPlugins-0.6.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.7.2/WAILAPlugins-0.7.2.jar"
+url = "https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.6.0/WAILAPlugins-0.6.0.jar"
 hash-format = "sha256"
-hash = "28d8be1f352898b94c96ce42a4f1bc4b78fdef4c25211eeab8ab1f4c09653566"
-
-[update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "GTNewHorizons/WAILAPlugins"
-tag = "0.7.2"
+hash = "f96982b5916cf3090aaa9031ab6a9463de5ad0c53466b8285c9137a09933e045"

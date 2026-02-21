@@ -1,0 +1,13 @@
+name = "Forbidden Magic"
+filename = "Forbidden Magic-1.7.10-0.575.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "d6b239a05a630cfb3b6de01fe14a8674ec14ef8fb34ea75d1ad45b79565d8636"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2303822
+project-id = 224237

@@ -1,15 +1,8 @@
 name = "EnderIO"
-filename = "EnderIO-2.10.20.jar"
+filename = "EnderIO-2.9.28.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.20/EnderIO-2.10.20.jar"
+url = "https://github.com/GTNewHorizons/EnderIO/releases/download/2.9.28/EnderIO-2.9.28.jar"
 hash-format = "sha256"
-hash = "7e5b6af89fb33b4a3c2f27825f61b723f889f82c76afe5df7023692d8c903f60"
-
-[update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "GTNewHorizons/EnderIO"
-tag = "2.10.20"
+hash = "b3c5f7b6b51ffdafbfa58674ee13bfa3025330bae3610c7d5246bb9dc77fec46"

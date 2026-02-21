@@ -1,15 +1,13 @@
 name = "OpenComputers"
-filename = "OpenComputers-1.12.18-GTNH-pre.jar"
+filename = "OpenComputers-MC1.7.10-1.8.9a+a430047-universal.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.18-GTNH-pre/OpenComputers-1.12.18-GTNH-pre.jar"
 hash-format = "sha256"
-hash = "2629d322d7bf70db02a38a53d1db61df9762618e8cc65d587f111fef38dc8286"
+hash = "6ad1dc0d5d69659f29295c8b442c856c77574736b9d2b5c84f18a93cb31b44c4"
+mode = "metadata:curseforge"
 
 [update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "GTNewHorizons/OpenComputers"
-tag = "1.12.18-GTNH-pre"
+[update.curseforge]
+file-id = 6608364
+project-id = 223008

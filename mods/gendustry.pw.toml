@@ -1,15 +1,13 @@
-name = "gendustry"
-filename = "gendustry-1.9.8-GTNH.jar"
+name = "Gendustry"
+filename = "gendustry-1.6.4.135-mc1.7.10.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/gendustry/releases/download/1.9.8-GTNH/gendustry-1.9.8-GTNH.jar"
 hash-format = "sha256"
-hash = "6d0eeed2e0e45edc6b3ed6dd5e64fe31c3dc71afe5633559b502a2cafa022f18"
+hash = "fecf3da51213d75ba7089c400744840d2fba0ac1c0ac51c04fec7aa31e32e764"
+mode = "metadata:curseforge"
 
 [update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "GTNewHorizons/gendustry"
-tag = "1.9.8-GTNH"
+[update.curseforge]
+file-id = 2293751
+project-id = 70492

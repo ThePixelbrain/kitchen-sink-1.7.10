@@ -1,15 +1,13 @@
 name = "Jabba"
-filename = "JABBA-1.5.18.jar"
+filename = "Jabba-1.2.2_1.7.10.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/Jabba/releases/download/1.5.18/JABBA-1.5.18.jar"
 hash-format = "sha256"
-hash = "e84c20752bc2898fad44e16f0ace1095e86356c694cf1ea8e41f234a01439230"
+hash = "3ab1fa00f3d3169d27830db42305eda8aaea0c5705af47ce169c5a50b8b76ee4"
+mode = "metadata:curseforge"
 
 [update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "GTNewHorizons/Jabba"
-tag = "1.5.18"
+[update.curseforge]
+file-id = 2302354
+project-id = 73510

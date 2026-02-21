@@ -1,15 +1,8 @@
 name = "NotEnoughEnergistics"
-filename = "NotEnoughEnergistics-1.7.23.jar"
+filename = "NotEnoughEnergistics-1.7.14.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.23/NotEnoughEnergistics-1.7.23.jar"
+url = "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.14/NotEnoughEnergistics-1.7.14.jar"
 hash-format = "sha256"
-hash = "0fc6d195477bc70788fa9a21afe2077994fde9464c17f66f3a8a61685f40fcc1"
-
-[update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "GTNewHorizons/NotEnoughEnergistics"
-tag = "1.7.23"
+hash = "ba6654816eb0b4fba8aebf8035a0a40457d7d574cb02a8472cadad51ece75ebb"

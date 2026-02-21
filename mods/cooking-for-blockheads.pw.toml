@@ -1,0 +1,13 @@
+name = "Cooking for Blockheads"
+filename = "cookingbook-mc1.7.10-1.0.140.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "5330bb9a3bc813d22d4e72100e558dafec79ac2e75e70b768208a6a770ed372a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2299135
+project-id = 231484

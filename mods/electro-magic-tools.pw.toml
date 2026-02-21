@@ -1,15 +1,8 @@
 name = "Electro-Magic-Tools"
-filename = "EMT-1.7.17.jar"
+filename = "EMT-1.6.18.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.7.17/EMT-1.7.17.jar"
+url = "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.6.18/EMT-1.6.18.jar"
 hash-format = "sha256"
-hash = "38dfb85d19e208a19000ca84846d59c9599d78d15546c67b93858eebb387c151"
-
-[update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "GTNewHorizons/Electro-Magic-Tools"
-tag = "1.7.17"
+hash = "94b35cc6b03e504e6676c25e3d34edeb9d1c78f9bcd649a961c5fe17f3514a0f"

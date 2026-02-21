@@ -1,15 +1,8 @@
 name = "twilightforest"
-filename = "TwilightForest-2.7.20-pre.jar"
+filename = "TwilightForest-2.7.13.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.20-pre/TwilightForest-2.7.20-pre.jar"
+url = "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.13/TwilightForest-2.7.13.jar"
 hash-format = "sha256"
-hash = "8972b5378161952bc8f7c0bc5a495db577ec7938cfddff725b657142e35ac6dd"
-
-[update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "GTNewHorizons/twilightforest"
-tag = "2.7.20-pre"
+hash = "3f5c14c79c74824e354cc9817d03d2c603dca2a993db2a612b12c16fc381582d"

@@ -1,15 +1,8 @@
 name = "StorageDrawers"
-filename = "StorageDrawers-2.2.15-GTNH.jar"
+filename = "StorageDrawers-2.1.10-GTNH.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.2.15-GTNH/StorageDrawers-2.2.15-GTNH.jar"
+url = "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.1.10-GTNH/StorageDrawers-2.1.10-GTNH.jar"
 hash-format = "sha256"
-hash = "f429063aaa7bf5f0100c67759320c3ee18982fc43a569bb961e693ee2733354f"
-
-[update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "GTNewHorizons/StorageDrawers"
-tag = "2.2.15-GTNH"
+hash = "6e7c028f5f513af2ca3ec624abac077ea4281bcf93e17120b8ea7ee5ccc4da27"

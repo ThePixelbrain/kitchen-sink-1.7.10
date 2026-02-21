@@ -1,15 +1,13 @@
 name = "Botania"
-filename = "Botania-1.13.14-GTNH.jar"
+filename = "Botania r1.8-249.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/Botania/releases/download/1.13.14-GTNH/Botania-1.13.14-GTNH.jar"
 hash-format = "sha256"
-hash = "1a1fd788468ff84e3f36c317df15d11afc9b910ae3853fe78061d661e0f75b9d"
+hash = "056aef1c2971c783d7553b1b33ba411467dd2a263476b76c1325038e7ed5d079"
+mode = "metadata:curseforge"
 
 [update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "GTNewHorizons/Botania"
-tag = "1.13.14-GTNH"
+[update.curseforge]
+file-id = 2283837
+project-id = 225643

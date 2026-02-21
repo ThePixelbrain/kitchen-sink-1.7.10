@@ -1,15 +1,13 @@
 name = "Natura"
-filename = "Natura-2.8.15.jar"
+filename = "natura-1.7.10-2.2.1a2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/Natura/releases/download/2.8.15/Natura-2.8.15.jar"
 hash-format = "sha256"
-hash = "0805ae54306268b1b53c4fca91ea2634239441e16a1273f3452b9231edb72c2a"
+hash = "89fb51cf176e5460f8fdd5076655ee620f76b17da1f7f3a15d12e4bd9778817e"
+mode = "metadata:curseforge"
 
 [update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "GTNewHorizons/Natura"
-tag = "2.8.15"
+[update.curseforge]
+file-id = 2257670
+project-id = 74120

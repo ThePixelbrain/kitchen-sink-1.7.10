@@ -1,0 +1,15 @@
+name = "IguanaTweaksTConstruct"
+filename = "IguanaTweaksTConstruct-2.7.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.7.1/IguanaTweaksTConstruct-2.7.1.jar"
+hash-format = "sha256"
+hash = "28d09cc07ade1e4fc611f6c9c1cd31fadc8810db7241542bdbe8fa0b94ef91ea"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/IguanaTweaksTConstruct"
+tag = "2.7.1"

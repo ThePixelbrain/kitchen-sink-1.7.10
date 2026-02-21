@@ -1,0 +1,13 @@
+name = "BeeBetterAtBees"
+filename = "BeeBetterAtBees-0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "a2528c043b6ac35c6bf23c34c8e5413a4d5acb7f612c1a5acae9a3354c626a87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2297397
+project-id = 244516
