@@ -1,0 +1,15 @@
+name = "BugTorch"
+filename = "bugtorch-1.2.14.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jss2a98aj/BugTorch/releases/download/1.2.14/bugtorch-1.2.14.jar"
+hash-format = "sha256"
+hash = "1b8adbb982d65965d0b070b96077405786ce5d01c08775bbf6bcb63b4d49f780"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "jss2a98aj/BugTorch"
+tag = "1.2.14"

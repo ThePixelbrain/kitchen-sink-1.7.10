@@ -1,0 +1,8 @@
+name = "Hodgepodge"
+filename = "hodgepodge-2.6.112.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.112/hodgepodge-2.6.112.jar"
+hash-format = "sha256"
+hash = "97c12c09d1e10cbdda3a9b871fdff5d75dfe4f0db6dc569cff646d4e4e6e0a11"
