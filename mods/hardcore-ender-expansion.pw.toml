@@ -1,0 +1,8 @@
+name = "Hardcore-Ender-Expansion"
+filename = "HardcoreEnderExpansion-1.12.16-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/releases/download/1.12.16-GTNH/HardcoreEnderExpansion-1.12.16-GTNH.jar"
+hash-format = "sha256"
+hash = "a81e82815fe091aebabe2553a53fd63bc99f0791802ae9def88c5c15630931cd"

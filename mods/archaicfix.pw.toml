@@ -1,0 +1,15 @@
+name = "ArchaicFix"
+filename = "archaicfix-0.7.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/embeddedt/ArchaicFix/releases/download/0.7.7/archaicfix-0.7.7.jar"
+hash-format = "sha256"
+hash = "0713cb7867ddb6f60a97634295123a74f8fab578788be989c53908156d1536e5"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "embeddedt/ArchaicFix"
+tag = "0.7.7"

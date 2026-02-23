@@ -1,0 +1,15 @@
+name = "AlchemyGrate"
+filename = "alchgrate-1.3.1-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/AlchemyGrate/releases/download/1.3.1-GTNH/alchgrate-1.3.1-GTNH.jar"
+hash-format = "sha256"
+hash = "aa63fa667d7099465b6dca18a482d14dc196ed53e2aeb9b54972a53acac08682"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/AlchemyGrate"
+tag = "1.3.1-GTNH"

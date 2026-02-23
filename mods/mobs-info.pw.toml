@@ -1,0 +1,15 @@
+name = "Mobs-Info"
+filename = "mobsinfo-0.4.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/kuba6000/Mobs-Info/releases/download/0.4.7/mobsinfo-0.4.7.jar"
+hash-format = "sha256"
+hash = "8343d18e6b00034528914bee14c8f9b26bfdf7fbae53f2187dca49c85cb3c626"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "kuba6000/Mobs-Info"
+tag = "0.4.7"

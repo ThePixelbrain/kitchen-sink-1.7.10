@@ -1,0 +1,3 @@
+# Gregify Ender Quarry to match BC quarry cost
+recipes.remove(<ExtraUtilities:enderQuarry>);
+recipes.addShaped(<ExtraUtilities:enderQuarry>, [[<ore:blockEnderObsidian>, <ore:circuitAdvanced>, <ore:blockEnderObsidian>], [<ore:blockEnderCore>, <ExtraUtilities:decorativeBlock1:12>, <ore:blockEnderCore>], [<ExtraUtilities:enderThermicPump>, <IC2:itemToolDDrill:*>, <ExtraUtilities:enderThermicPump>]]);

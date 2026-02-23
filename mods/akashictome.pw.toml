@@ -1,0 +1,15 @@
+name = "AkashicTome"
+filename = "akashictome-1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/AkashicTome/releases/download/1.2.6/akashictome-1.2.6.jar"
+hash-format = "sha256"
+hash = "0b391494ec4ad622298af2ae98c12d166cac432a261d2202a482c24467ca5329"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/AkashicTome"
+tag = "1.2.6"

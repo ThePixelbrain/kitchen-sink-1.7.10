@@ -670,7 +670,7 @@ hash = "057f9263c3620365798f589e124e590cd82e7bd585f0ee3efa6b51ab66eecdbb"
 
 [[files]]
 file = "config/NEI/hiddenitems.cfg"
-hash = "94e068c38a66f59beb907736745d637275010f932354ec1df20908a8a9d2761f"
+hash = "715ea4ebf339a51ccfd811e6d950d80da4776a4dfaff6f798ec13512e0632646"
 
 [[files]]
 file = "config/NEI/informationpages.cfg"
@@ -690,7 +690,7 @@ hash = "ce7aa8a38d0c3bc70df95736d468b44c8f95a370a8cf2668281c07898a8adf58"
 
 [[files]]
 file = "config/Natura.cfg"
-hash = "38a96df0a31654973174dcdf543ecceb8786319d8bd1aa38c4bdb98481af236f"
+hash = "5f62ca7e59eb350330710dde398b6eba7b244f961db4dba69b9b00234a82ece6"
 
 [[files]]
 file = "config/NotEnoughEnergistics.cfg"
@@ -750,7 +750,7 @@ hash = "d53f14040860cfda5161c749e0dd2ebcb2c8f14533f663fcd7d8ee842fd9b11c"
 
 [[files]]
 file = "config/Reika/DragonAPI.cfg"
-hash = "916d735cc116711ee77836d1cc7daa21581177a8f2210065277d76b8dd375a8e"
+hash = "2d470bea83da2349dcbbeb0abed02f127a05def6ebec5bbdd21587fecda42c62"
 
 [[files]]
 file = "config/Reika/DragonAPI_Aux_Retrogen.cfg"
@@ -881,6 +881,10 @@ file = "config/TwilightForest.cfg"
 hash = "7abd6d58a905d4c81864a4fdc93d1c3e514596cd03313ab0fc2290e0f07282a7"
 
 [[files]]
+file = "config/UniDict.cfg"
+hash = "b464a7dea747f017c4c6d96f1fd566c7f94f972d4c4bcb293ce0ce2f93bd04dd"
+
+[[files]]
 file = "config/Waila.cfg"
 hash = "4be549d93c51c9256a622bcf7cd7a48bbad8456952121c2b449ff00d09a596e7"
 
@@ -935,6 +939,10 @@ hash = "2c3f30e01340ef1825d0c7305790bbea8593d58a993c22e32108a953688cbf3c"
 [[files]]
 file = "config/agricraft/VanillaPlantingExceptions.txt"
 hash = "b8fd15f5a9f1eb1409e86a2e240423f35445c1419b03b1714ee0380b41bd8152"
+
+[[files]]
+file = "config/akashictome.cfg"
+hash = "3cc85473dfe84872833065171427283d9524663c911fa57adec3e8fed80385f7"
 
 [[files]]
 file = "config/angelica-compat.cfg"
@@ -1441,6 +1449,14 @@ file = "config/iChunUtil_KeyBinds.cfg"
 hash = "3b24ae8b5cededbe729d0a938727db46ea2a01fe2d5e42463f525dadde921023"
 
 [[files]]
+file = "config/ic2/shaped_recipes.ini"
+hash = "efb7f289c21ce096ea4946a0f97a9d667c9bfe5e58a6936db9adb6c43a7ec7c5"
+
+[[files]]
+file = "config/ic2/shapeless_recipes.ini"
+hash = "c1bbf4847b40a7d2aca1847930c173cadc804cdb93c0e49d143771e8a4545bfd"
+
+[[files]]
 file = "config/machinemuse/custominstallcosts.json"
 hash = "f0c4b335e69270c4221a186efe3744be2d02108f26565f044c158cbb97eceaa7"
 
@@ -1669,6 +1685,10 @@ file = "mods/GraviSuite-1.7.10-2.0.3.jar"
 hash = "713dc2248488934fc04d6bd62eb27be374bdc4baf428eeabcb2fd98257496a3b"
 
 [[files]]
+file = "mods/ProjectBlue-1.2.1-GTNH.jar"
+hash = "9c438068f97bb42e1d86f5671b206931216b1296b5ce4cf0066f5a09fcdd7160"
+
+[[files]]
 file = "mods/Thaumic Machina-1.7.10-0.2.1.jar"
 hash = "745edc4c412336944198b90bcb4c30a89b8b3181eb3c937244624b1ef7d8d7b6"
 
@@ -1688,6 +1708,16 @@ hash = "ca67eae520cbe3a64bf4062fd54f93680f95b7004f676c811f50a034ef92c2aa"
 metafile = true
 
 [[files]]
+file = "mods/akashictome.pw.toml"
+hash = "cf7877caa1b95d096a16a88f5c04de878ea2a888f5b8781e859b79c260308d4c"
+metafile = true
+
+[[files]]
+file = "mods/alchemygrate.pw.toml"
+hash = "6f3e03314bcfdd986936cfeb0b0da4b5c69f731c7bea136d6ecc446e47266302"
+metafile = true
+
+[[files]]
 file = "mods/angelica.pw.toml"
 hash = "837fe0cde9c4ca834d46b78365c3c8618fc074d436e1f80878f720ce088b03b5"
 metafile = true
@@ -1700,6 +1730,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2-unofficial.pw.toml"
 hash = "7be2a0f8c5221cca3e1ac6da195008a58b2e01fbb7a27265cd48b0734bb309f5"
+metafile = true
+
+[[files]]
+file = "mods/archaicfix.pw.toml"
+hash = "ffac58db71e6192d6ec409f1971e8a4e8a4a78234a907156f56044b140f99bc3"
 metafile = true
 
 [[files]]
@@ -1735,6 +1770,11 @@ metafile = true
 [[files]]
 file = "mods/betterachievements.pw.toml"
 hash = "f839d816e6e95b707757de7f9229d89b004e9f9960beeb55b70be77547d9e46f"
+metafile = true
+
+[[files]]
+file = "mods/bettercrashes.pw.toml"
+hash = "99691e13e300090772d064e1ec5b29ab4febdcd91677043ed5b13c017ffdd42f"
 metafile = true
 
 [[files]]
@@ -2012,6 +2052,16 @@ hash = "cafbba230fa2ec0ef26d3e813c22c4da047dd88d56604be854cc2759c30725cb"
 metafile = true
 
 [[files]]
+file = "mods/hardcore-ender-expansion.pw.toml"
+hash = "c96352aa4ec04e72cf88bc2eb23a7532f7fb25a5d0eaf6d89ba302bcedd62599"
+metafile = true
+
+[[files]]
+file = "mods/helpfixer.pw.toml"
+hash = "4838e764d371b0cad5fc734c95ec0ff596c8a195dc337e167ca7e8092f25dc54"
+metafile = true
+
+[[files]]
 file = "mods/hexcraft.pw.toml"
 hash = "6721b9ff79b5bf1bdfe8ed044dd5089ff6777f00ce7a2dc7f73c07a201a70121"
 metafile = true
@@ -2072,6 +2122,11 @@ hash = "d849cdd25cfd44fc9aef62f549d76375475ba2ee013c7a47e2cf86f727a15847"
 metafile = true
 
 [[files]]
+file = "mods/malisisdoors.pw.toml"
+hash = "bba2b9831009bbc685ba01bee39b65d7af209578e51abf50c679d4a6e85854a5"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "a9a037641c856ae2ed8f0f8a4cc8e48f10b88a176f7df0fdbfb55519f7ccf3de"
 metafile = true
@@ -2089,6 +2144,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "d3a47455b55aeb57a0692923152f2e8be10398b9bf79545c286162cd008b6c92"
+metafile = true
+
+[[files]]
+file = "mods/mobs-info.pw.toml"
+hash = "8b4786c1b3d2c569ad6a97a4b71b2b680a28fba7fc4e9d5bb2cf1cadaaa2a4ed"
 metafile = true
 
 [[files]]
@@ -2129,6 +2189,11 @@ metafile = true
 [[files]]
 file = "mods/naturescompass.pw.toml"
 hash = "819b3b619d5d8366525020213435b77927008fde63e71fc3ef43158a4bffe362"
+metafile = true
+
+[[files]]
+file = "mods/navigator.pw.toml"
+hash = "7c0a6b0e9f8ff284685df9f800272abba0a23a6b1d15d8ac498c83f528c8b7a0"
 metafile = true
 
 [[files]]
@@ -2386,6 +2451,11 @@ hash = "91d3dedd60ba4e6edff762666a15913aa7ac5422e04c34ea595880cec552c4fe"
 metafile = true
 
 [[files]]
+file = "mods/unidict.pw.toml"
+hash = "e5075fb47fa75660c47d2a98a4e822015720f261792118807d05abdf8aeddd65"
+metafile = true
+
+[[files]]
 file = "mods/unimixins.pw.toml"
 hash = "f0aa2ea363eb139d5394cfedc21594bb6478c505807007129542b5f081b3ffe4"
 metafile = true
@@ -2441,6 +2511,50 @@ hash = "8fd0dee6d14429d592e9b67e77b6ed00d9472939320adbe812a67969c885f308"
 metafile = true
 
 [[files]]
+file = "scripts/AppliedEnergistics.zs"
+hash = "b66ac03fd696dcfce6b7524d1b7db40f93cd0632ce17adb55191bf51a50e55a1"
+
+[[files]]
+file = "scripts/BigReactors.zs"
+hash = "a72c3bac08475712c14e9fab0b3eef4526a81d777939ef01b7827f61b2c341af"
+
+[[files]]
+file = "scripts/ExtraUtilities.zs"
+hash = "dbefdfdb7717f9fcf9454ecbf0c008a8e5d00cc59ff51cef7a4fa94f0dcdbd42"
+
+[[files]]
+file = "scripts/GregTech.zs"
+hash = "427473253ccaefded3d3599e3766d12f068644e3033d64df3252f5a80ed9f009"
+
+[[files]]
+file = "scripts/IC2.zs"
+hash = "06533f8dfc9a57ddc31223884c0607925d6792bdc511f85e1354a0d928e0709f"
+
+[[files]]
+file = "scripts/NetherOres.zs"
+hash = "b614be7288cc06916aa0a4bdc33fa6899bdb2f8f234747d564269c7e483f62e6"
+
+[[files]]
+file = "scripts/RFTools.zs"
+hash = "e93fde791ca1259a021106b0ef9cd00a8d74c42b66a588d7d533ec6e168b8a3b"
+
+[[files]]
+file = "scripts/ThermalFoundation.zs"
+hash = "c6df861b167853f571418234b9d89e009b8b04f00c65b627b7806a8ba03c2b7e"
+
+[[files]]
+file = "scripts/TinkersConstruct.zs"
+hash = "3c6a3dabaa066119dbcddefad753324fb4b4e36860bbd912aff47b1e74ac6c80"
+
+[[files]]
+file = "scripts/Vanilla.zs"
+hash = "32d369e2e8373b936ee54f43032e5234abe1c1ef3442f0433c5a352e8c5014af"
+
+[[files]]
+file = "scripts/Ztones.zs"
+hash = "411d93044f9f06657e8428c2ad1af12b2d7b5e775c0e99ff523ec697b4adbf6d"
+
+[[files]]
 file = "serverutilities/aurora.cfg"
 hash = "805848c80ca83c388512ec4666bc294cedffa043b36036f7bc5b2ddd709896cb"
 
@@ -2466,7 +2580,7 @@ hash = "886f7e756dc4e50e1c5458e863ca3eec9cabf6ab9e39d7e8a7ffa43b4a8b18d3"
 
 [[files]]
 file = "serverutilities/serverutilities.cfg"
-hash = "d88956da4d4ca9e6d604b4e7a42bdb09c909c82f810ae86cd0e47af2a071b9f3"
+hash = "49dc73dc5ea95b85a2fb8312af94b5515a7c5714edd2030252bff0771734b645"
 
 [[files]]
 file = "unsup.ini"

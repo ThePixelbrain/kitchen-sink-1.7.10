@@ -1,0 +1,22 @@
+# Ferrous -> Nickel (this change increases greg by 20%)
+<ThermalFoundation:Ore:4>.displayName = "Nickel Ore";
+<ThermalFoundation:Storage:4>.displayName = "Nickel Block";
+<ThermalFoundation:material:36>.displayName = "Pulverized Nickel";
+<ThermalFoundation:material:68>.displayName = "Nickel Ingot";
+<ThermalFoundation:material:100>.displayName = "Nickel Nugget";
+<ThermalFoundation:material:132>.displayName = "Nickel Gear";
+<ThermalFoundation:armor.helmetNickel>.displayName = "Nickel Helmet";
+<ThermalFoundation:armor.plateNickel>.displayName = "Nickel Chestplate";
+<ThermalFoundation:armor.legsNickel>.displayName = "Nickel Leggings";
+<ThermalFoundation:armor.bootsNickel>.displayName = "Nickel Boots";
+<ThermalFoundation:tool.swordNickel>.displayName = "Nickel Sword";
+<ThermalFoundation:tool.shovelNickel>.displayName = "Nickel Shovel";
+<ThermalFoundation:tool.pickaxeNickel>.displayName = "Nickel Pickaxe";
+<ThermalFoundation:tool.axeNickel>.displayName = "Nickel Axe";
+<ThermalFoundation:tool.hoeNickel>.displayName = "Nickel Hoe";
+<ThermalFoundation:tool.shearsNickel>.displayName = "Nickel Shears";
+<ThermalFoundation:tool.fishingRodNickel>.displayName = "Nickel Fishing Rod";
+<ThermalFoundation:tool.sickleNickel>.displayName = "Nickel Sickle";
+<ThermalFoundation:tool.bowNickel>.displayName = "Nickel Reinforced Bow";
+<ThermalFoundation:Ore:4>.displayName = "Nickel Ore";
+<ThermalFoundation:Storage:4>.displayName = "Nickel Block";
