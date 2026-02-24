@@ -1,0 +1,8 @@
+name = "NEI Mystcraft Plugin"
+filename = "MystNEI-Plugin-1.7.10-02.02.04.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Jonius7/mystcraft-nei-plugin/releases/download/v02.02.04/MystNEI-Plugin-1.7.10-02.02.04.jar"
+hash-format = "sha256"
+hash = "e9d5000b1eb1fde6fca11dfccf3ce58520edfae89840cd5c5c1ec86db12c8393"

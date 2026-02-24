@@ -1,13 +1,8 @@
 name = "Nuclear Control 2"
-filename = "IC2NuclearControl-2.4.5a.jar"
+filename = "IC2NuclearControl-2.6.20.jar"
 side = "both"
 
 [download]
+url = "https://github.com/GTNewHorizons/Nuclear-Control/releases/download/2.6.20/IC2NuclearControl-2.6.20.jar"
 hash-format = "sha256"
-hash = "d4bc664e5f71dc709d3e82f624827d19499d705d656a5c12bf34f7c7f3ea1356"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3802063
-project-id = 236813
+hash = "5caf38b926eec944fd3f7b27100afbf1439f4b6a76927c041d9bc9631ed7dc1f"

@@ -1,13 +1,8 @@
 name = "OpenBlocks"
-filename = "OpenBlocks-1.7.10-1.6.jar"
+filename = "OpenBlocks-1.11.7-GTNH.jar"
 side = "both"
 
 [download]
+url = "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.11.7-GTNH/OpenBlocks-1.11.7-GTNH.jar"
 hash-format = "sha256"
-hash = "a75ea97c1977e11942df8189d184caf96afe464fefe4b28337a7fb7f00e74300"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2386733
-project-id = 228816
+hash = "15ac094a90900cb7521165f9052dfaf0966283c50121c8f648faa2314d97707c"

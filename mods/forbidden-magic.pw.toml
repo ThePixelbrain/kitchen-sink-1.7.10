@@ -1,13 +1,8 @@
 name = "Forbidden Magic"
-filename = "Forbidden Magic-1.7.10-0.575.jar"
+filename = "Forbidden.Magic-0.8.4-GTNH.jar"
 side = "both"
 
 [download]
+url = "https://github.com/GTNewHorizons/ForbiddenMagic/releases/download/0.8.4-GTNH/Forbidden.Magic-0.8.4-GTNH.jar"
 hash-format = "sha256"
-hash = "d6b239a05a630cfb3b6de01fe14a8674ec14ef8fb34ea75d1ad45b79565d8636"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2303822
-project-id = 224237
+hash = "7b35e1152972dd290454339b5bf3297fcd67f699f1cb9cb223b7c3ced616adb1"

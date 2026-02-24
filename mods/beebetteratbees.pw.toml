@@ -1,13 +1,8 @@
 name = "BeeBetterAtBees"
-filename = "BeeBetterAtBees-0.3.jar"
+filename = "beebetteratbees-0.4.3-GTNH.jar"
 side = "both"
 
 [download]
+url = "https://github.com/GTNewHorizons/BeeBetterAtBees-GTNH/releases/download/0.4.3-GTNH/beebetteratbees-0.4.3-GTNH.jar"
 hash-format = "sha256"
-hash = "a2528c043b6ac35c6bf23c34c8e5413a4d5acb7f612c1a5acae9a3354c626a87"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2297397
-project-id = 244516
+hash = "fd23426e7fdb3bc40114aa6a3d8d0186f9a0904a27fc5b9e2d54b88614d940cc"

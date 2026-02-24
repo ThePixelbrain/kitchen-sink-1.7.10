@@ -1,13 +1,8 @@
 name = "OpenComputers"
-filename = "OpenComputers-MC1.7.10-1.8.9a+a430047-universal.jar"
+filename = "OpenComputers-1.11.20-GTNH.jar"
 side = "both"
 
 [download]
+url = "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.11.20-GTNH/OpenComputers-1.11.20-GTNH.jar"
 hash-format = "sha256"
-hash = "6ad1dc0d5d69659f29295c8b442c856c77574736b9d2b5c84f18a93cb31b44c4"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6608364
-project-id = 223008
+hash = "a836a38f5ec4cf71db35c0eef5c0fa5b2a36c612ea6b52da707cf9ee04557fc5"

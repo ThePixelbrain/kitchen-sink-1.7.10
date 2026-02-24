@@ -1,13 +1,8 @@
 name = "Ender Storage"
-filename = "EnderStorage-1.7.10-1.4.7.37-universal.jar"
+filename = "EnderStorage-1.7.7.jar"
 side = "both"
 
 [download]
+url = "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.7.7/EnderStorage-1.7.7.jar"
 hash-format = "sha256"
-hash = "a8b1209284c584a539f657bafc00c2bbb6cffb3bf06630f6f01fff977ea0b846"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2262092
-project-id = 229306
+hash = "c88c04e1c17fa8c20ae575364c18a914b126b7ece93ab0e1085416ff8009a8c9"

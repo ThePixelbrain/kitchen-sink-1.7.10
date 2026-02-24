@@ -1,13 +1,8 @@
 name = "Gendustry"
-filename = "gendustry-1.6.4.135-mc1.7.10.jar"
+filename = "gendustry-1.9.4-GTNH.jar"
 side = "both"
 
 [download]
+url = "https://github.com/GTNewHorizons/gendustry/releases/download/1.9.4-GTNH/gendustry-1.9.4-GTNH.jar"
 hash-format = "sha256"
-hash = "fecf3da51213d75ba7089c400744840d2fba0ac1c0ac51c04fec7aa31e32e764"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2293751
-project-id = 70492
+hash = "6690a0768748c3d6d477ef6d9db062e59e57dd52b7a1f7c3a6137b8f6f3ab76c"

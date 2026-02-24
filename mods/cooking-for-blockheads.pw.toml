@@ -1,13 +1,8 @@
 name = "Cooking for Blockheads"
-filename = "cookingbook-mc1.7.10-1.0.140.jar"
+filename = "CookingForBlockheads-1.4.4-GTNH.jar"
 side = "both"
 
 [download]
+url = "https://github.com/GTNewHorizons/CookingForBlockheads/releases/download/1.4.4-GTNH/CookingForBlockheads-1.4.4-GTNH.jar"
 hash-format = "sha256"
-hash = "5330bb9a3bc813d22d4e72100e558dafec79ac2e75e70b768208a6a770ed372a"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2299135
-project-id = 231484
+hash = "79d714498f1ff2efadd96b21a86d93b9c6892789f2920ec359591a05dadaaa64"

@@ -1,13 +1,8 @@
 name = "Gadomancy"
-filename = "gadomancy-1.7.10-1.0.7.3.jar"
+filename = "gadomancy-1.4.8.jar"
 side = "both"
 
 [download]
+url = "https://github.com/GTNewHorizons/Gadomancy/releases/download/1.4.8/gadomancy-1.4.8.jar"
 hash-format = "sha256"
-hash = "28aea728f1ac7c4f0165c3cdf11d367c140764841181c867c15bd35bc823bcc5"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2338768
-project-id = 237271
+hash = "90fb7e230a18a0eac65645aedc5c205acbc53844d95154850f90a6161beeaa26"

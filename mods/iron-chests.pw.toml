@@ -1,13 +1,8 @@
 name = "Iron Chests"
-filename = "ironchest-1.7.10-6.0.62.742-universal.jar"
+filename = "IronChest-6.1.6.jar"
 side = "both"
 
 [download]
+url = "https://github.com/GTNewHorizons/ironchest/releases/download/6.1.6/IronChest-6.1.6.jar"
 hash-format = "sha256"
-hash = "a300fcf2c43ab26eb1eb380a13efdcc6c1c46f0a502da219a4b58337df52ef7b"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2230908
-project-id = 228756
+hash = "f02636fc5811d33d746341bdb9890278fc60205b10dd9cb0d7cd378f3f8e1859"

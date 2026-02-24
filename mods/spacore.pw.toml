@@ -1,0 +1,13 @@
+name = "SpACore"
+filename = "SpACore-1.7.10-01.05.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "45da6c80b1ff5e021e415a8e750a2a51a3c2ecebe3441ccb04c70a8925bf330a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2274441
+project-id = 228922

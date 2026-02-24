@@ -1,13 +1,8 @@
 name = "AppleCore"
-filename = "AppleCore-mc1.7.10-3.1.1.jar"
+filename = "AppleCore-3.3.7.jar"
 side = "both"
 
 [download]
+url = "https://github.com/GTNewHorizons/AppleCore/releases/download/3.3.7/AppleCore-3.3.7.jar"
 hash-format = "sha256"
-hash = "c2394350c58b71229b869fd2b1e2fee5df7b4c1672effc72478d8454a0a2060c"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2530879
-project-id = 224472
+hash = "c4f611f48444da713c2e90bb60120da12f649b5085467e269508276cbd7b7486"

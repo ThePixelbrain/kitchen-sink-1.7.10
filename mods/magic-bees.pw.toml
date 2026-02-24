@@ -1,13 +1,8 @@
 name = "Magic Bees"
-filename = "magicbees-1.7.10-2.4.4.jar"
+filename = "magicbees-2.9.4-GTNH.jar"
 side = "both"
 
 [download]
+url = "https://github.com/GTNewHorizons/MagicBees/releases/download/2.9.4-GTNH/magicbees-2.9.4-GTNH.jar"
 hash-format = "sha256"
-hash = "007ca5a3f1b6af62385b764ea2a5b61ccca3358f12907a698c7b29c2f9482b11"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2468320
-project-id = 65764
+hash = "2e17daaf4a987b69610acd496b6107c6e221bfc9373e4fc9cc00c211358c9d17"

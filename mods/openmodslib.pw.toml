@@ -1,13 +1,8 @@
 name = "OpenModsLib"
-filename = "OpenModsLib-1.7.10-0.10.1.jar"
+filename = "OpenModsLibs-0.10.11.jar"
 side = "both"
 
 [download]
+url = "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.11/OpenModsLibs-0.10.11.jar"
 hash-format = "sha256"
-hash = "8fba16715cbfd665d4760863d25dc4e094ba7ef713daafc312eac410ee265945"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2765573
-project-id = 228815
+hash = "cc4f7bf445a168ffd5e8bdcee0beaf44755ca46e7e7fa016fae23d59d78ca2dc"

@@ -1,13 +1,8 @@
 name = "BetterAchievements"
-filename = "BetterAchievements-1.7.10-0.1.0.jar"
+filename = "BetterAchievements-0.3.0.jar"
 side = "both"
 
 [download]
+url = "https://github.com/GTNewHorizons/BetterAchievements/releases/download/0.3.0/BetterAchievements-0.3.0.jar"
 hash-format = "sha256"
-hash = "10f8195abe547b9649d627df11684fd354ac7acd68a5c9ca60459b79b21890bb"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2260793
-project-id = 235716
+hash = "3fe25c63b81cde07bcfa6ed8142a5dc68490381e4e108fadee60170197250697"

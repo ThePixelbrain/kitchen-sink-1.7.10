@@ -1,13 +1,8 @@
 name = "Chisel"
-filename = "Chisel-2.9.5.11.jar"
+filename = "chisel-2.16.15-GTNH.jar"
 side = "both"
 
 [download]
+url = "https://github.com/GTNewHorizons/Chisel/releases/download/2.16.15-GTNH/chisel-2.16.15-GTNH.jar"
 hash-format = "sha256"
-hash = "68c8a4f4c7785f939d8fa2e7df56c76afa37dfd2574f738a07d3dfd80d6257a6"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2287442
-project-id = 235279
+hash = "a3e05d666491252ad798b36724b336917adb25e47cabae0fc25f0c6f1e91810e"
