@@ -558,7 +558,7 @@ hash = "8ac33d66f120a49bbf99a04fe75369c10fe6bb88645ac6456465f1f3ed0096cd"
 
 [[files]]
 file = "config/GregTech/WorldGeneration.cfg"
-hash = "d47c803993a269d3903a749a0931fc34995d35d6e724274a4f207eafbf0097e3"
+hash = "d31fda1a6e7326a097003d65f4d2299e9b8cce145d33678ac6b0579d7d8178cd"
 
 [[files]]
 file = "config/Guide-API/Guide-API.cfg"
@@ -1115,6 +1115,10 @@ hash = "fd722d350688c0b9fd0bd556f2d3aa3c1190a37f7aecc985c5fe954912dc1e23"
 [[files]]
 file = "config/cofh/thermalfoundation/lexicon-whitelist.cfg"
 hash = "f18be03806661988801528ac7b51b53f346e269d5c35d765692acc561c9e6924"
+
+[[files]]
+file = "config/cofh/world/GT4.json"
+hash = "434e9eb438572cc973b4634e9eae2572cdeea6ac6c40f2b5dc82c1910e095ba7"
 
 [[files]]
 file = "config/cofh/world/ThermalFoundation-Ores.json"

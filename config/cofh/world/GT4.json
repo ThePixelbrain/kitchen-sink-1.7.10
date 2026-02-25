@@ -1,0 +1,175 @@
+{
+    "Bauxite": {
+        "template": "uniform",
+        "block": {"name": "gregtech_addon:ore", "metadata": 5},
+        "material": "stone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "chunkChance": 1,
+        "minHeight": 32,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+                "type": "dictionary", 
+                "entry": "PLAINS"
+            },
+            {
+                "type": "dictionary", 
+                "entry": "FOREST"
+            }
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "Bauxite_High": {
+        "template": "uniform",
+        "block": {"name": "gregtech_addon:ore", "metadata": 5},
+        "material": "stone",
+        "clusterSize": 16,
+        "numClusters": 3,
+        "chunkChance": 1,
+        "minHeight": 70,
+        "maxHeight": 120,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+                "type": "dictionary", 
+                "entry": "PLAINS"
+            },
+            {
+                "type": "dictionary", 
+                "entry": "FOREST"
+            }
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "Iridium": {
+        "template": "uniform",
+        "block": {"name": "gregtech_addon:ore", "metadata": 2},
+        "material": "stone",
+        "clusterSize": 1,
+        "numClusters": 1,
+        "chunkChance": 5,
+        "minHeight": 0,
+        "maxHeight": 100,
+        "retrogen": "true",
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "Sphalerite": {
+        "template": "uniform",
+        "block": {"name": "gregtech_addon:ore", "metadata": 8},
+        "material": "netherrack",
+        "clusterSize": 8,
+        "numClusters": 8,
+        "chunkChance": 2,
+        "minHeight": 32,
+        "maxHeight": 96,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+    "Sphalerite_Lava": {
+        "template": "underfluid",
+        "block": {"name": "gregtech_addon:ore", "metadata": 8},
+        "material": "stone",
+        "genFluid": "lava",
+        "clusterSize": 8,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 20,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "Tungstate": {
+        "template": "uniform",
+        "block": {"name": "gregtech_addon:ore", "metadata": 9},
+        "material": "end_stone",
+        "clusterSize": 9,
+        "numClusters": 8,
+        "chunkChance": 1,
+        "minHeight": 16,
+        "maxHeight": 220,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            1
+        ]    
+    },
+    "Sheldonite": {
+        "template": "uniform",
+        "block": {"name": "gregtech_addon:ore", "metadata": 10},
+        "material": "end_stone",
+        "clusterSize": 4,
+        "numClusters": 3,
+        "chunkChance": 1,
+        "minHeight": 16,
+        "maxHeight": 220,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            1
+        ]    
+    },
+    "Olivine": {
+        "template": "uniform",
+        "block": {"name": "gregtech_addon:ore", "metadata": 11},
+        "material": "end_stone",
+        "clusterSize": 4,
+        "numClusters": 4,
+        "chunkChance": 1,
+        "minHeight": 16,
+        "maxHeight": 220,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            1
+        ]    
+    },
+    "Sodalite": {
+        "template": "uniform",
+        "block": {"name": "gregtech_addon:ore", "metadata": 12},
+        "material": "end_stone",
+        "clusterSize": 4,
+        "numClusters": 8,
+        "chunkChance": 1,
+        "minHeight": 16,
+        "maxHeight": 220,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            1
+        ]    
+    }
+}
