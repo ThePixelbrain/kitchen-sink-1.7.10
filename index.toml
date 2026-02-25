@@ -1982,6 +1982,11 @@ hash = "1305334677e636dbe3882270533837338039af6f02fd95d8206d356f664d4e62"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "26e431fc1ed38dc663124f77134a89eb9c8e72d60e082872e9d3270680914929"
+metafile = true
+
+[[files]]
 file = "mods/forbidden-magic.pw.toml"
 hash = "31507169b630cf260731ab6d81288fd35d595ea5d6320b84be6ae47cb992021d"
 metafile = true
