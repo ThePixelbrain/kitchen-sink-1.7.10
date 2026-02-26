@@ -670,7 +670,7 @@ hash = "057f9263c3620365798f589e124e590cd82e7bd585f0ee3efa6b51ab66eecdbb"
 
 [[files]]
 file = "config/NEI/hiddenitems.cfg"
-hash = "715ea4ebf339a51ccfd811e6d950d80da4776a4dfaff6f798ec13512e0632646"
+hash = "aaf803d6f3479af72d6c22cb614277644bac38d15603dcdc6542a9272e2082ae"
 
 [[files]]
 file = "config/NEI/informationpages.cfg"
@@ -702,7 +702,7 @@ hash = "372aa0c0493986d05a2d5a5a9d70caba8c669ea9ddda25b985ef437066453c3a"
 
 [[files]]
 file = "config/OpenBlocks.cfg"
-hash = "a09d5e4d60878b963e2d977480a49f9ab2bfb3bf07bb2e756f37c0aa89936875"
+hash = "ec3599f13b79b6f100607e9298e6c915d622825ea1ccef3a604de65abd8f0530"
 
 [[files]]
 file = "config/OpenComputers.cfg"
