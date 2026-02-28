@@ -1,0 +1,8 @@
+name = "guava"
+filename = "guava-17.0.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/com/google/guava/guava/17.0/guava-17.0.jar"
+hash-format = "sha256"
+hash = "8c36a80ea613d0b6b8040a17cf837c5bbe3677bc1b06a058a6c174fdb787ebbc"

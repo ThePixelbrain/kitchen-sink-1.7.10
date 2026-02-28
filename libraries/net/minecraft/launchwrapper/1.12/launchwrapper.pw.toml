@@ -1,0 +1,8 @@
+name = "launchwrapper"
+filename = "launchwrapper-1.12.jar"
+side = "server"
+
+[download]
+url = "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+hash-format = "sha256"
+hash = "57f402b626d16cc2705bf2a37add7adbb074f0ca3b3102fa6e23aa303dae682f"

@@ -1,0 +1,8 @@
+name = "minecraft-server"
+filename = "minecraft_server.1.7.10.jar"
+side = "server"
+
+[download]
+url = "https://piston-data.mojang.com/v1/objects/952438ac4e01b4d115c5fc38f891710c4941df29/server.jar"
+hash-format = "sha256"
+hash = "c70870f00c4024d829e154f7e5f4e885b02dd87991726a3308d81f513972f3fc"

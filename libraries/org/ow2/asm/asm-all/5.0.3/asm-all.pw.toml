@@ -1,0 +1,8 @@
+name = "asm-all"
+filename = "asm-all-5.0.3.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar"
+hash-format = "sha256"
+hash = "09d44e6adddaab9fd89ea3164c439f71c755769fa8d3a940352ab3d2003b98ff"

@@ -1,0 +1,8 @@
+name = "config"
+filename = "config-1.2.1.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/com/typesafe/config/1.2.1/config-1.2.1.jar"
+hash-format = "sha256"
+hash = "c160fbd78f51a0c2375a794e435ce2112524a6871f64d0331895e9e26ee8b9ee"

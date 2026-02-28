@@ -1,0 +1,8 @@
+name = "jopt-simple"
+filename = "jopt-simple-4.5.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar"
+hash-format = "sha256"
+hash = "64335a48be6b142a7d0c13ec5c82a707857aa58c0234e6eda3eaca0e96eea51b"

@@ -1,0 +1,8 @@
+name = "lzma"
+filename = "lzma-0.0.1.jar"
+side = "server"
+
+[download]
+url = "https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+hash-format = "sha256"
+hash = "0c3085cb93c3ef95d731c274b6f2dd195aa0405fe9328d69cab7f5e899d5e124"

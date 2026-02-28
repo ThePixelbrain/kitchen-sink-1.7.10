@@ -1,0 +1,8 @@
+name = "scala-xml_2.11"
+filename = "scala-xml_2.11-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+hash-format = "sha256"
+hash = "6c3338a4062c13dc2ce61630d9854d361a81656a4050e5080302f500dd4a8832"

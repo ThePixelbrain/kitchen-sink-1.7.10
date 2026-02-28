@@ -1681,6 +1681,101 @@ file = "config/witchery_debug.cfg"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "forge.pw.toml"
+hash = "f7f341060a9303667483e318a0a00b75c798af648135af3dd97d841bc079610b"
+metafile = true
+
+[[files]]
+file = "libraries/com/google/guava/guava/17.0/guava.pw.toml"
+hash = "3cbc95c7c597cc1a4ce13f0b5da270ba57b0f9db7f2ecb808292236326b9192b"
+metafile = true
+
+[[files]]
+file = "libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor-2-11.pw.toml"
+hash = "036c646b6b212f2b4eb30c9bad2bbac531b9f4769e27e33a5d52a4d843f7ce1c"
+metafile = true
+
+[[files]]
+file = "libraries/com/typesafe/config/1.2.1/config.pw.toml"
+hash = "6a66ee7b842cae58123a413251c4c3ed11348067ecd8c55c6af34358438845ed"
+metafile = true
+
+[[files]]
+file = "libraries/lzma/lzma/0.0.1/lzma.pw.toml"
+hash = "7d487e38b45d3a816b7c5af38255f82f2b0796477985f85b6cc5e7606f3ad1ac"
+metafile = true
+
+[[files]]
+file = "libraries/net/minecraft/launchwrapper/1.12/launchwrapper.pw.toml"
+hash = "35191a989bec894675fafbd0d378c6431eef94a72b8bfa0c4ad142ee56fd27eb"
+metafile = true
+
+[[files]]
+file = "libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple.pw.toml"
+hash = "7af396270f61d1e037f230a583814883026e55dd4370fd6d38af692a9e990935"
+metafile = true
+
+[[files]]
+file = "libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3.pw.toml"
+hash = "3873ddbae451b5ca5fe57d48d8164c526a2bee3d2410720d9f5238096bc571c2"
+metafile = true
+
+[[files]]
+file = "libraries/org/ow2/asm/asm-all/5.0.3/asm-all.pw.toml"
+hash = "273ba9beff25a47dec846f12f106f88bd1d0e49232608ebdf921bd29c7e71c8f"
+metafile = true
+
+[[files]]
+file = "libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library-2-11.pw.toml"
+hash = "7686f16544f1e4fb65c39f526e1c3ea9dbfd5ea88f17b48e7a7918b2b0ee22a6"
+metafile = true
+
+[[files]]
+file = "libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin-2-11-1.pw.toml"
+hash = "c7e9fa17ae65ee5133e43e0c6ac4d97fdca507426feba65477a85bc39dc12771"
+metafile = true
+
+[[files]]
+file = "libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration-2-11.pw.toml"
+hash = "fb4f7948d5ba73aaa1f96b632dc0fa12a679466bec3adfb52264d9ba7ffdf3a5"
+metafile = true
+
+[[files]]
+file = "libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler.pw.toml"
+hash = "069f07b93a13b5c82d0ac7a41e47829b805aee20e1fbbe0df55e389ccb302f85"
+metafile = true
+
+[[files]]
+file = "libraries/org/scala-lang/scala-library/2.11.1/scala-library.pw.toml"
+hash = "5a17dff5dc69748751757311f599ca270172804ee1cc3899ab67463006219cc1"
+metafile = true
+
+[[files]]
+file = "libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators-2-11.pw.toml"
+hash = "87b9c34bb16c8d1595c0d11e390a97d21c5920bc552907b3f61c53da68e75495"
+metafile = true
+
+[[files]]
+file = "libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect.pw.toml"
+hash = "34ff3b63b2ce92a9b2f6644351a4d2d757a91add0b9a3742b82aeab914b08afc"
+metafile = true
+
+[[files]]
+file = "libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing-2-11.pw.toml"
+hash = "765182b520fc6361c2d706626ee3683a4e69b0419b8ac366cd7f86992d76541a"
+metafile = true
+
+[[files]]
+file = "libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml-2-11.pw.toml"
+hash = "63a2c167a08f124790db5ecfc2b072d478df3539e7bf45fde287f27473e05eb0"
+metafile = true
+
+[[files]]
+file = "minecraft-server.pw.toml"
+hash = "e9bae46b159c871ea3c7677476b42c970e7cb2900c3d712d3d33be7dd2c4407b"
+metafile = true
+
+[[files]]
 file = "mods/AdvancedSolarPanels-1.7.10-3.5.1f.jar"
 hash = "84182872d8f153c8619e97aafac73b21d34a2f71ed2b2e6d4b459686b60a514a"
 
@@ -2614,7 +2709,3 @@ hash = "886f7e756dc4e50e1c5458e863ca3eec9cabf6ab9e39d7e8a7ffa43b4a8b18d3"
 [[files]]
 file = "serverutilities/serverutilities.cfg"
 hash = "49dc73dc5ea95b85a2fb8312af94b5515a7c5714edd2030252bff0771734b645"
-
-[[files]]
-file = "unsup.ini"
-hash = "51a22baba191b7046057b5bcfa1eac37c70d936a183f8296d6228f38ef055640"

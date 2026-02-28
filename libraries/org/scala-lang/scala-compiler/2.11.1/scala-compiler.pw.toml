@@ -1,0 +1,8 @@
+name = "scala-compiler"
+filename = "scala-compiler-2.11.1.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+hash-format = "sha256"
+hash = "3aa616f5c56d2052fc5e3231f3e8cf1736f876caff0142a66096fc5b4dc87ae5"
