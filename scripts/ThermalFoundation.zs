@@ -18,5 +18,3 @@
 <ThermalFoundation:tool.fishingRodNickel>.displayName = "Nickel Fishing Rod";
 <ThermalFoundation:tool.sickleNickel>.displayName = "Nickel Sickle";
 <ThermalFoundation:tool.bowNickel>.displayName = "Nickel Reinforced Bow";
-<ThermalFoundation:Ore:4>.displayName = "Nickel Ore";
-<ThermalFoundation:Storage:4>.displayName = "Nickel Block";

@@ -566,7 +566,7 @@ hash = "121701905b497b5c82a6923ffff43d0543eea308817e46fef51caa22187dfd8b"
 
 [[files]]
 file = "config/HungerOverhaul/HungerOverhaul.cfg"
-hash = "2b3e503cc53083e888d71b781a8d41b92acc1ed6932d492dd3d7f1e0487c3989"
+hash = "5a113e3eabb7222765db1ced6d3824cec6756d6a4d88a57a72b9ecfd4874abc9"
 
 [[files]]
 file = "config/HungerOverhaul/blankslate.cfg"
@@ -910,7 +910,7 @@ hash = "5dcd6403b57ab2e3f2eb16104c8c2cf24f9ac87cc19829a9b0d9f9926ed1ead5"
 
 [[files]]
 file = "config/agricraft/Configuration.cfg"
-hash = "e567c6660633de42f1e01b7d9dd50007de056979311a26d8473519f0e3ff4ad9"
+hash = "6a80497ee3760ab74a7c5946d26ee0369d838b89192dc01fc1b22c0f023cc76b"
 
 [[files]]
 file = "config/agricraft/GrassDrops.txt"
@@ -1066,7 +1066,7 @@ hash = "4fb03c5090c908ef1ca1d1a4d0a831b9aad09f3016d79765cb889e93dc560d28"
 
 [[files]]
 file = "config/cofh/core/common.cfg"
-hash = "2338bdf151df7d8eb84ce6265944c80b9559bc5bf8576d0775aa53e103b4b249"
+hash = "d7c0bf3ffc789c7f7836feab11b3f4bd8c91efcfe3733ff881f63ac61708d468"
 
 [[files]]
 file = "config/cofh/core/friends.cfg"
@@ -2553,7 +2553,7 @@ hash = "6fef0161c95502d9bd3cb791327dd5a1e9331c64c645d090de66d1cef3a74653"
 
 [[files]]
 file = "scripts/GregTech.zs"
-hash = "427473253ccaefded3d3599e3766d12f068644e3033d64df3252f5a80ed9f009"
+hash = "f0a9453386853316d0e3a99f0f3f4d8c8b9431308459bd92e2586ed4a02eda6d"
 
 [[files]]
 file = "scripts/IC2.zs"
@@ -2568,8 +2568,12 @@ file = "scripts/RFTools.zs"
 hash = "e93fde791ca1259a021106b0ef9cd00a8d74c42b66a588d7d533ec6e168b8a3b"
 
 [[files]]
+file = "scripts/Railcraft.zs"
+hash = "394d018a089397594b0d82679d93c8e74a504f5cdf9dfd57957c4467931f9a70"
+
+[[files]]
 file = "scripts/ThermalFoundation.zs"
-hash = "c6df861b167853f571418234b9d89e009b8b04f00c65b627b7806a8ba03c2b7e"
+hash = "91df5850b2c9451746a715fe77ab11974223fe9d1499a23786b5343383eb2a59"
 
 [[files]]
 file = "scripts/TinkersConstruct.zs"

@@ -5,8 +5,8 @@ import mods.gregtechmod.recipe.RecipeMaps;
 val GRINDER = RecipeMaps.getRecipeMap("GRINDER"); 
 
 # Revert expensive Flint and Steel recipe
-# recipes.remove(<minecraft:flint_and_steel>);
-# recipes.addShaped(<minecraft:flint_and_steel>, [[<ore:ingotIron>, null], [null, <ore:itemFlint>]]);
+recipes.remove(<minecraft:flint_and_steel>);
+recipes.addShaped(<minecraft:flint_and_steel>, [[<ore:ingotIron>, null], [null, <ore:itemFlint>]]);
 
 # Simple rubber smelting
 furnace.addRecipe(<gregtech_addon:metaitem_1:11880>, <IC2:itemHarz>);
