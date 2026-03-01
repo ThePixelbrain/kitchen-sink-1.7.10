@@ -1,0 +1,175 @@
+# Mod List
+
+- [AE2 Fluid Crafting](https://github.com/GlodBlock/AE2FluidCraft-Rework) [1\.4\.120\-gtnh] by GlodBlock
+- [AE2 Stuff](http://bdew.net) [0\.9\.9\-GTNH] by bdew
+- [Advanced Solar Panels](http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291) by SeNtiMeL, Icedfire
+- [AgriCraft](http://minecraft.curseforge.com/mc-mods/225635-agricraft) [1\.5\.0] by InfinityRaider
+- [Akashic Tome](https://github.com/GTNewHorizons/AkashicTome) [1\.2\.6] by Vazkii
+- Alchemical Grate [1\.3\.1\-GTNH] by TechnicianLP
+- [Angelica](https://github.com/GTNewHorizons/angelica) [1\.0\.0\-beta66b] by eigenraven, mitchej123, glowredman, caedis, vlaetansky, karyonix, sonic ether, id\_miner, daxnitro
+- [AppleCore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger) [3\.3\.7] by squeek
+- [Applied Energistics 2](https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial) [rv3\-beta\-695\-GTNH] by AlgorithmX2
+- ArchaicFix [0\.7\.7] by embeddedt
+- Automagy [1\.7\.10\-0\.28\.2] by Tuhljin \(programming, art\), Draanor \(art\)
+- [BD lib](http://bdew.net/mods/) [1\.11\.0\-GTNH] by bdew
+- [Baubles Expanded](https://github.com/jss2a98aj/Baubles-Expanded) [2\.1\.19\-GTNH] by Azanor, jss2a98aj
+- [BedcraftFixes](https://github.com/ThePixelbrain/BedcraftFixes) [1\.3\.1] by ThePixelbrain
+- BeeBetterAtBees [0\.4\.3\-GTNH] by HellFirePvP
+- [Better Achievements](https://github.com/way2muchnoise/BetterAchievements) [0\.3\.0] by way2muchnoise
+- [BetterCrashes](https://github.com/GTNewHorizons/BetterCrashes) [1\.4\.1\-GTNH] by vfyjxf
+- [BetterP2P](https://github.com/LasmGratel/BetterP2P) [1\.3\.3] by AlgorithmX2, GlodBlock
+- [BiblioCraft](http://www.bibliocraftmod.com) [1\.11\.7] by Joseph 'Nuchaz' Sinclair
+- [BiblioWoods Biomes O'Plenty Edition](http://www.bibliocraftmod.com) [1\.9] by Joseph 'Nuchaz' Sinclair
+- [BiblioWoods Forestry Edition](http://www.bibliocraftmod.com) [1\.7] by Joseph 'Nuchaz' Sinclair
+- [BiblioWoods Natura Edition](http://www.bibliocraftmod.com) [1\.5] by Joseph 'Nuchaz' Sinclair
+- [Big Reactors](http://www.big-reactors.com) [0\.4\.3A] by ErogenousBeef
+- [Binnie Core](http://minecraft.curseforge.com/mc-mods/223525-binnies-mods) [2\.5\.24] by Binnie
+- [Biomes O' Plenty](http://www.minecraftforum.net/topic/1495041-) [2\.1\.0] by Adubbz, Amnet, Forstride, ted80
+- [Blood Arsenal](https://github.com/GTNewHorizons/BloodArsenal) [1\.4\.10] by Arcratus
+- [Blood Magic: Alchemical Wizardry](http://www.minecraftforum.net/topic/1899223-) [1\.7\.52] by WayofTime
+- [Botania](http://www.botaniamod.net) [1\.12\.28\-GTNH] by Vazkii
+- [Brandon's Core](https://www.curseforge.com/minecraft/mc-mods/brandons-core) [1\.2\.0\-GTNH] by brandon3055
+- [BugTorch](https://github.com/jss2a98aj/BugTorch) [1\.2\.14] by jss2a98aj
+- [BuildCraft](http://www.mod-buildcraft.com/) [7\.1\.44] by SpaceToad, BuildCraft Team
+- [BuildCraft Compat](http://www.mod-buildcraft.com/) [7\.1\.19\-pre] by asie, BuildCraft Team
+- [CCTweaks](https://github.com/SquidDev-CC/CCTweaks) [1\.1\.1] by SquidDev, ElvishJerricco
+- [Carbon Config Library](https://github.com/Carbon-Config-Project/CarbonConfig) [$\{version\}] by Meduris, Speiger
+- [Carpenter's Blocks](https://www.carpentersblocks.com/) [3\.7\.1\-GTNH] by Mineshopper
+- [Chisel](http://www.minecraftforum.net/forums/thread/1294901) [2\.16\.15\-GTNH] by tterrag, Drullkus, minecreatr
+- [Chisel Tones](https://www.curseforge.com/minecraft/mc-mods/chiseltones) [1\.2\.0\-GTNH] by TehNut
+- Choco Patcher [1\.1] by Chocohead
+- ChromatiCraft 1\.7\.10 V33a [V33a] by Reika
+- [ChromatiFixes](https://github.com/unilock/ChromatiFixes) [1\.12\.1] by thegamemaster1234, unilock
+- Chunk Pregenerator [1\.7\.10\-4\.4\.9\.1] by Speiger
+- [CoFH Core](http://www.teamcofh.com) [3\.1\.4] by Team CoFH
+- [CodeChicken Core](http://www.minecraftforum.net/topic/909223) [1\.4\.10] by ChickenBones, GTNH Team
+- [ComputerCraft](http://www.computercraft.info) [1\.75] by Daniel Ratcliffe, Aaron Mills
+- [Controlling](https://minecraft.curseforge.com/projects/controlling) [2\.1\.2] by Jaredlll08
+- [Cooking For Blockheads](https://github.com/GTNewHorizons/CookingForBlockheads) [1\.4\.4\-GTNH] by BlayTheNinth, ZeroTheShinigami, GTNH Team
+- [Draconic Evolution](http://www.brandon3055.com/) [1\.4\.27\-GTNH] by brandon3055
+- DragonAPI 1\.7\.10 V33b [V33b] by Reika
+- DummyCore [1\.20\.0] by Dummy Thinking Team, Modbder, TheDen2099
+- ElectriCraft 1\.7\.10 V33a [V33a] by Reika
+- [Electro\-Magic Tools](http://www.minecraftforum.net/topic/2196652-) [1\.6\.18] by fewizz, TheSilentium, The GTNH Team, bartimaeusnek
+- [Ender IO](http://enderio.com) [2\.9\.28] by CrazyPants, tterrag
+- [EnderCore](http://enderio.com) [0\.4\.8] by tterrag, CrazyPants
+- [EnderIOAddons](http://enderioaddons.loenwind.info) [0\.10\.16] by HenryLoenwind, Cleptomania
+- [EnderStorage](http://www.minecraftforum.net/topic/909223) [1\.7\.7] by ChickenBones
+- [EnderTech](https://github.com/carrotengineer/EnderTech) [1\.7\.10\-0\.3\.2\.393] by voxelcarrot, Arkan
+- Extra Utilities [1\.2\.12] by RWTema
+- ExtraTiC [1\.4\.6] by Glassmaker
+- [FalsePatternLib](https://github.com/FalsePattern/FalsePatternLib) [1\.10\.7] by FalsePattern
+- Fast Leaf Decay [1\.7\.10\-1\.4] by Olafski
+- [Forbidden Magic](http://www.minecraftforum.net/topic/2305054-/) [0\.8\.4\-GTNH] by SpitefulFox
+- [Forestry](http://forestry.sengir.net/) [4\.10\.17] by SirSengir
+- [Forge Multipart](https://github.com/Chicken-Bones/ForgeMultipart) [1\.7\.2] by ChickenBones
+- ForgeRelocation [0\.3\.4] by MrTJP
+- [Forgelin](https://github.com/shadowfacts/Forgelin) [2\.0\.3\-GTNH] by bartimaeusnek, Telan
+- Funky Locomotion [beta\-7] by RWTema
+- [GTNH Lib](https://github.com/GTNewHorizons/GTNHLib) [0\.7\.10] by mitchej123
+- Gadomancy [1\.4\.8] by makeo, HellFirePvP
+- [Gendustry](http://bdew.net/mods/) [1\.9\.4\-GTNH] by bdew
+- GeoStrata 1\.7\.10 V33a [V33a] by Reika
+- [Graviation Suite](http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915) [1\.7\.10\-2\.0\.3] by SeNtiMeL
+- Gravitation Suite Neo [1\.3\.8] by Namikon, glowredman
+- [GregTech\-Addon](https://github.com/Nukepowered/GregTech4) [4\.17\.56] by Gregorius Techneticies, TheDarkDnKTv, sferatime
+- Guide\-API [1\.7\.10\-1\.0\.1\-29] by Tombenpotter, TehNut
+- [HEXCraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2433456) [0\.13\.2] by CelesTek, Thorinair, CoffeePirate
+- [Hardcore Ender Expansion](https://hee.chylex.com) [1\.12\.16\-GTNH] by Programmed by chylex \| https://hee\.chylex\.com/authors
+- [HelpFixer](http://minecraft.curseforge.com/mc-mods/223797-helpfixer) [1\.3\.0] by matthewprenger
+- Hodgepodge [2\.6\.112] by mitchej123, GTNewHorizons Team
+- [Hunger Overhaul](http://www.minecraftforum.net/topic/1813158-) [1\.0\.0\.jenkins104] by iguana\_man, Parker8283, progwml6, squeek502
+- [Iguana Tinker Tweaks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176855) [2\.7\.1] by boni, iguana\_man
+- [IndustrialCraft 2](http://www.industrial-craft.net) [2\.2\.828\-experimental] by Alblaka, Player, RichardG, Thunderdark, GregoriusT, alexthesax, Drashian, Elementalist, Feanturi, Lurch1985, SirusKing, tahu44, Aroma1997
+- Inventory Bogo Sorter [1\.2\.68\-GTNH] by brachy84
+- [Iron Chests](http://www.minecraftforum.net/topic/981855-) [6\.1\.6] by cpw
+- [JABBA](http://mobiusstrip.eu/wiki/Jabba) [1\.5\.10] by ProfMobius, Taelnia
+- [JourneyMap](http://journeymap.info) [5\.2\.10] by techbrew, mysticdrew
+- [Logistics Pipes](http://www.minecraftforum.net/topic/1831791-) [1\.4\.24\-GTNH] by RS485, LP Team
+- [MachineMuse's Modular Powersuits](http://machinemuse.net/) [1\.7\.10\-0\.11\.1\.117] by MachineMuse
+- [Magic Bees](http://bit.ly/XFDvLY) [2\.9\.4\-GTNH] by MysteriousAges
+- [Malisis' Doors](https://github.com/Ordinastie/MalisisDoors) [1\.18\.2\-GTNH] by Ordinastie
+- [Mantle](https://github.com/SlimeKnights/Mantle) [0\.5\.1] by mDiyo, Sunstrike, progWML6
+- McJtyLib [1\.8\.1\-SNAPSHOT] by McJty
+- [MineFactory Reloaded](http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/) [2\.8\.2B1] by PowerCrystals, TehKrush, AtomicStryker, Feanorith, skyboy026
+- [MineTweaker 3](http://minetweaker3.powerofbytes.com) [1\.7\.10\-3\.1\.0] by Stan Hebben
+- MmmMmmMmmMmm [1\.7\.10\-1\.9] by boni
+- [MobsInfo](https://github.com/kuba6000/Mobs-Info) [0\.4\.7] by kuba6000
+- Mod Tweaker 2 [0\.9\.6] by Jaredlll08
+- [Modular UI 2](https://github.com/CleanroomMC/ModularUI/tree/1.7.10) [2\.2\.18\-1\.7\.10] by brachy84, Rongmario, CleanroomMC, miozune \(1\.7\.10 port\)
+- [ModularUI](https://github.com/GTNewHorizons/ModularUI) [1\.2\.20] by brachy84, Rongmario, CleanroomMC, Quarri6343 \(1\.7\.10 port\), miozune \(1\.7\.10 port\)
+- MrTJPCore [1\.3\.4] by MrTJP
+- [Mystcraft](http://xcompwiz.com) [0\.12\.3\.04] by XCompWiz
+- [NEI Addons](http://bdew.net/neiaddons) [1\.17\.0] by bdew
+- [NEI Mystcraft Plugin](http://binarymage.com/forum/viewtopic.php?f=13&t=696) [02\.02\.04] by heldplayer, Jonius7
+- NEIIntegration [1\.5\.1] by tonius11
+- [Natura](http://www.minecraftforum.net/topic/1753754-natura/) [2\.8\.9] by mDiyo, Slime Knights
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) [1\.5\.0\-GTNH] by ChaosTheDude
+- Navigator [1\.0\.17] by GTNH Team
+- [Nether Ores](http://minecraft.curseforge.com/mc-mods/netherores/) [2\.3\.2B1] by PowerCrystals, TehKrush, AtomicStryker, skyboy026
+- NotEnoughEnergistics [1\.7\.14] by vfyjxf
+- [NotEnoughItems](https://github.com/GTNewHorizons/NotEnoughItems) [2\.8\.44\-GTNH] by ChickenBones, mitchej123
+- [Nuclear Control 2](http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915) [2\.6\.20] by Shedar, xbony2, Zuxelus, DMF444
+- [Numina](http://machinemuse.net/) [0\.4\.1\.106] by MachineMuse
+- [OpenBlocks](http://openmods.info/) [1\.11\.7\-GTNH] by Mikee, NeverCast, boq, Lyqyd
+- [OpenCCSensors](http://www.computercraft.info) [1\.6\.4\.5] by Cloudy, Orwell1984, Mikeemoo, Nietsnie, Lyqyd, CoolisTheName007, thraaawn, foone
+- [OpenComputers](https://oc.cil.li/) [1\.11\.20\-GTNH] by Florian 'Sangar' Nuecke, Johannes 'Lord Joda' Lohrer, Everyone who contributed to the mod on Github \- thank you\!
+- [OpenMods](https://openmods.info/) [0\.10\.11] by Mikee, NeverCast, boq, Lyqyd
+- [OpenPeripheralAddons](http://www.openperipheral.info) [0\.6] by Mikeemoo, cybcaoyibo, SinZ, theoriginalbit, Foone
+- [OpenPeripheralCore](http://www.openmods.info) [1\.4] by Mikeemoo, boq, theoriginalbit, Foone, SinZ
+- [OpenPeripheralIntegration](http://www.openmods.info) [0\.6] by Mikeemoo, boq, theoriginalbit, Foone, SinZ
+- Opis [1\.4\.8\-mapless] by ProfMobius, RoyCurtis
+- [Pam's HarvestCraft](http://minecraft.curseforge.com/members/MatrexsVigil/projects) [1\.7\.10i] by Pamela Collins
+- PortalGun\-4\.0\.0\-beta\-6\-fix\-1
+- [Project Blue](http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/ProjectBlue/) [1\.2\.1\-GTNH] by Greg Ewing
+- [ProjectRed Core](http://projectredwiki.com) [4\.12\.6\-GTNH] by MrTJP, ChickenBones
+- RFTools [4\.23] by McJty
+- [Railcraft](http://railcraft.info/) [9\.16\.33] by CovertJaguar
+- ReactorCraft 1\.7\.10 V33a [V33a] by Reika
+- [Redstone Arsenal](http://www.teamcofh.com) [1\.1\.2] by Team CoFH
+- RelocationFMP [0\.2\.0] by MrTJP
+- RotaryCraft 1\.7\.10 V33a [V33a] by Reika
+- Sampler [1\.60\.1] by Player
+- [Sanguimancy](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2194354-blood-magic-addon-sanguimancy) [1\.7\.10\-1\.1\.9\-35] by Tombenpotter
+- [ServerUtilities](https://github.com/GTNewHorizons/ServerUtilities) [2\.2\.2] by LatvianModder, mitchej123, GTNH Team
+- [SpACore](http://minecraft.curseforge.com/projects/spacore) [01\.05\.12] by heldplayer, mbl111
+- [Steve's Addons](https://github.com/hilburn/StevesAddons) [0\.14\.2] by hilburn
+- Steve's Carts 2 [2\.3\.12] by Vswe
+- [Steve's Factory Manager](https://github.com/GTNewHorizons/Steve-s-Factory-Manager) [1\.3\.7\-GTNH\-pre] by Vswe
+- [Storage Drawers](http://www.jaquadro.com/) [2\.1\.10\-GTNH] by jaquadro
+- Super Sound Muffler: Legacy [1\.2\.3] by EdgarAllen, FalsePattern
+- [TC Node Tracker](https://github.com/Dyonovan/TCNodeTracker) [1\.4\.2] by Dyonovan
+- TC4 Tweak [1\.5\.43] by glee8e
+- [Tainted Magic](https://www.curseforge.com/minecraft/mc-mods/tainted-magic) [7\.6\.26\-GTNH] by John Yorke \(yorkeMC\)
+- [Thaumcraft](http://www.minecraftforum.net/topic/2011841-thaumcraft) [1\.7\.10\-4\.2\.3\.5] by Azanor
+- [Thaumcraft NEI Additions](https://github.com/TimeConqueror/TCNEIAdditions) [1\.5\.14\-pre] by Time\_Conqueror
+- Thaumcraft NEI Plugin [1\.7\.10\-1\.7a] by DjGiannuzz
+- Thaumic Bases [1\.8\.13] by Modbder, KryptonCaptain
+- [Thaumic Boots](https://github.com/GTNewHorizons/thaumicinsurgence) [1\.4\.14] by Alastor
+- [Thaumic Energistics](http://minecraft.curseforge.com/projects/thaumic-energistics) [1\.7\.14\-GTNH] by Nividica
+- [Thaumic Exploration](https://github.com/KryptonCaptain/Thaumic_Exploration) [1\.4\.8\-GTNH] by Flaxbeard, GTNH Team, KryptonCaptain
+- [Thaumic Insurgence](https://github.com/GTNewHorizons/thaumicinsurgence) [0\.4\.0] by Alastor
+- Thaumic Machina [0\.2\.1] by jcm2606, HuggableCreep
+- [Thaumic Tinkerer](http://minecraftforum.net/topic/1813058-) [2\.11\.27] by pixlepix, nekosune
+- ThaumicHorizons [1\.7\.9] by Kentington
+- [The Twilight Forest](http://www.minecraftforum.net/topic/561673-) [2\.7\.13] by Benimatic \(Ben Mazur\)
+- [Thermal Dynamics](http://www.teamcofh.com) [1\.2\.1] by Team CoFH
+- [Thermal Expansion](http://www.teamcofh.com) [4\.1\.5] by Team CoFH
+- [Thermal Foundation](http://www.teamcofh.com) [1\.2\.6] by Team CoFH
+- [TiC Tooltips](http://www.minecraftforum.net/topic/2509840-) [1\.4\.0] by squeek
+- Tinkers Mechworks [0\.4\.1] by mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox
+- [Tinkers' Construct](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct) [1\.13\.57\-GTNH] by mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox, boni
+- [UniDict](http://minecraft.curseforge.com/projects/unidict) [2\.9\.2] by WanionCane
+- [UniMixins](https://github.com/LegacyModdingMC/UniMixins) [0\.2\.1] by makamys
+- VoidMonster 1\.7\.10 V33a [V33a] by Reika
+- [WAILA Plugins](https://github.com/GTNewHorizons/wailaplugins) [0\.6\.0] by tterrag
+- [WR\-CBE Core](https://www.minecraftforum.net/topic/909223) [1\.7\.1] by ChickenBones
+- Waila [1\.8\.15] by ProfMobius
+- Waila Harvestability [1\.3\.4\-GTNH] by squeek
+- Water Hooks [1\.2\.1] by Henry Loenwind
+- [What Are We Looking At](http://www.darkhax.net/wawla.html) [1\.3\.3\-GTNH] by Darkhax
+- [Witchery](http://sites.google.com/site/witcherymod/) [1\.7\.10\-0\.24\.1] by Emoniph
+- Witching Gadgets [1\.7\.25\-GTNH] by BluSunrize, KryptonCaptain
+- Ztones [2\.2] by riciJak
+- [iChunUtil](http://www.ichun.us/) [4\.2\.3] by iChun, Kihira
+- spark [1\.10\.35] by Luck
