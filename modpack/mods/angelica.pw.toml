@@ -1,6 +1,6 @@
 name = "Angelica"
 filename = "angelica-1.0.0-beta66b.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta66b/angelica-1.0.0-beta66b.jar"

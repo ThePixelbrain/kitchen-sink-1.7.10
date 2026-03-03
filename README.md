@@ -15,6 +15,10 @@ The term "Kitchen Sink Modpack" originates from the phrase "everything but the k
 This concept can be seen in other popular modpacks such as FTB Infinity Evolved and All The Mods.
 <small>(The pack actually includes a kitchen sink from the Cooking for Blockheads mod.)</small>
 
+**WARNING!** This pack is still in early development.
+Things might change as the pack gets more stable.
+The early game is playable, but late game recipes might change.
+
 ## Installation
 
 ### Client

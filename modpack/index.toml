@@ -961,6 +961,10 @@ file = "config/aobd.cfg"
 hash = "f80e4e6730914a197f149354191847793fd23cbcff199ce51dfb1545f6c93d4e"
 
 [[files]]
+file = "config/archaicfix.cfg"
+hash = "64d7cad5351982c3c34daff8c054056ca60683eb786c3f90e246a766481d0c7b"
+
+[[files]]
 file = "config/bdlib/readme.txt"
 hash = "0267af34c1928a0ff3a23a40546dbd457eea83726cb4a8cb96ac9340fe9343f0"
 
@@ -1818,7 +1822,7 @@ metafile = true
 
 [[files]]
 file = "mods/angelica.pw.toml"
-hash = "837fe0cde9c4ca834d46b78365c3c8618fc074d436e1f80878f720ce088b03b5"
+hash = "ea3bc300b07616b2c6577162f2b7abc4905a572086d4ffeb8639b394ebd47d6e"
 metafile = true
 
 [[files]]
@@ -2641,6 +2645,10 @@ hash = "b66ac03fd696dcfce6b7524d1b7db40f93cd0632ce17adb55191bf51a50e55a1"
 [[files]]
 file = "scripts/BigReactors.zs"
 hash = "a72c3bac08475712c14e9fab0b3eef4526a81d777939ef01b7827f61b2c341af"
+
+[[files]]
+file = "scripts/EnderIO.zs"
+hash = "b50b82e3e6e52a0668a7c624740edf9a4075110086b61be09fe40841b2b85fd1"
 
 [[files]]
 file = "scripts/ExtraUtilities.zs"
