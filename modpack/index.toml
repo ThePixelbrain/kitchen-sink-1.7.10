@@ -530,7 +530,7 @@ hash = "289ac1d0c67a805c79f370f0132df770ec5b7aceab85214c17106fc9114b5512"
 
 [[files]]
 file = "config/GregTech/DynamicConfig.cfg"
-hash = "e3b2535cefeda2e1149b14acba1f5f5ad9291e4f9680e5ed88f549beb69d231d"
+hash = "e5ec623fb0fb54a05b2dda7d0ce2fd7ec865400d0dd9684e22a40e1c2f59e7cf"
 
 [[files]]
 file = "config/GregTech/GregTech.cfg"
@@ -2656,7 +2656,7 @@ hash = "6fef0161c95502d9bd3cb791327dd5a1e9331c64c645d090de66d1cef3a74653"
 
 [[files]]
 file = "scripts/GregTech.zs"
-hash = "f0a9453386853316d0e3a99f0f3f4d8c8b9431308459bd92e2586ed4a02eda6d"
+hash = "9e1c6002558835243febaaa43922cd0a9bc691b5e738a84860d6b2e6a4771034"
 
 [[files]]
 file = "scripts/IC2.zs"

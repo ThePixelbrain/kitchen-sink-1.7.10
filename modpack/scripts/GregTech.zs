@@ -10,6 +10,7 @@ recipes.addShaped(<minecraft:flint_and_steel>, [[<ore:ingotIron>, null], [null, 
 
 # Simple rubber smelting
 furnace.addRecipe(<gregtech_addon:metaitem_1:11880>, <IC2:itemHarz>);
+furnace.addRecipe(<gregtech_addon:metaitem_1:2874>, <gregtech_addon:metaitem_1:11880>);
 
 # Clear cells in Extractor
 # WARNING: These modifications are always stuck for unknown reasons. They work, but generate warnings.
