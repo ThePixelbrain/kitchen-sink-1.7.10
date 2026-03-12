@@ -1784,6 +1784,10 @@ file = "mods/AdvancedSolarPanels-1.7.10-3.5.1f.jar"
 hash = "84182872d8f153c8619e97aafac73b21d34a2f71ed2b2e6d4b459686b60a514a"
 
 [[files]]
+file = "mods/ComputerCraft1.75_Pastebin-Fix.jar"
+hash = "bc372634be023ee86e0300cea77a16853d779743f0ac25905b3cedf0e1fa8dfe"
+
+[[files]]
 file = "mods/GraviSuite-1.7.10-2.0.3.jar"
 hash = "713dc2248488934fc04d6bd62eb27be374bdc4baf428eeabcb2fd98257496a3b"
 
@@ -2003,11 +2007,6 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "c440f6527aa08d9f4637ab5a0a07c67223c98fa70c100e70dee0531b939d889d"
-metafile = true
-
-[[files]]
-file = "mods/computercraft.pw.toml"
-hash = "7172ec7035971be7497e9637a58876058463427faf0a577a5408f688720d15b8"
 metafile = true
 
 [[files]]
