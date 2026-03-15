@@ -882,7 +882,7 @@ hash = "7abd6d58a905d4c81864a4fdc93d1c3e514596cd03313ab0fc2290e0f07282a7"
 
 [[files]]
 file = "config/UniDict.cfg"
-hash = "b464a7dea747f017c4c6d96f1fd566c7f94f972d4c4bcb293ce0ce2f93bd04dd"
+hash = "1fb05f4e66e76b6256b061facd316808efc8e652c21891e182e148031a064e7c"
 
 [[files]]
 file = "config/Waila.cfg"
