@@ -1442,7 +1442,7 @@ hash = "a86ccd1d6661ce82c15de6eda9826f813ad03cfca294f26fcfca68bb99c0f99b"
 
 [[files]]
 file = "config/hodgepodge.cfg"
-hash = "13417c41423eb807a970270d173e635fdaa7d4b4b57b9ebff0e90b7eb289c682"
+hash = "24d149555793f83b9962b716a6f807aea21dc716f908fbe483392b7495b1ce79"
 
 [[files]]
 file = "config/hodgepodgeEarly.properties"
