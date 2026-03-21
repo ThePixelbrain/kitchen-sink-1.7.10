@@ -738,7 +738,7 @@ hash = "462183b9bc5cf691d16f31a83bff19e85eacc73c2ef708b37d1fa587079ed0e7"
 
 [[files]]
 file = "config/ProjectRed.cfg"
-hash = "5bca65a58350d3b01efdc881c14a9e2136b250887663c169eef4d78d90e128d5"
+hash = "a122b9878b1f7884e6a64af560f4ae565e810f59667a8e4c5a761cebdc479cd2"
 
 [[files]]
 file = "config/Reika/CHROMATICRAFT_PackModifications.cfg"
@@ -1122,7 +1122,11 @@ hash = "f18be03806661988801528ac7b51b53f346e269d5c35d765692acc561c9e6924"
 
 [[files]]
 file = "config/cofh/world/GT4.json"
-hash = "434e9eb438572cc973b4634e9eae2572cdeea6ac6c40f2b5dc82c1910e095ba7"
+hash = "acaa1b60dcafa332b4fe5380f1644370e1564460fba2818e850dc694cad6feb1"
+
+[[files]]
+file = "config/cofh/world/ProjectRed.json"
+hash = "9c8e674b7acd130d9fc98227ffe73f7a963d47504d3fac42f7542b88895b3718"
 
 [[files]]
 file = "config/cofh/world/ThermalFoundation-Ores.json"
