@@ -469,10 +469,6 @@ file = "config/Botania.cfg"
 hash = "0507af9516a8c52590e798b0f25520d0cc3f3d7e5d04d1fc3ff294ae3cdbdc88"
 
 [[files]]
-file = "config/CCTweaks.cfg"
-hash = "629f4353dca99876f049edd9d76a98e9af19d51a264c6ebc293d5005dd0ba410"
-
-[[files]]
 file = "config/CarpentersBlocks.cfg"
 hash = "f5b522348a99a77609451f0fab2f53f817537b1b38d75df86c3b3a97fc37f4bf"
 
@@ -1971,11 +1967,6 @@ metafile = true
 [[files]]
 file = "mods/carpentersblocks.pw.toml"
 hash = "124a6dba18535ef2e04499c10017588e260d42f6e67acd5e640d48e2e3819d7d"
-metafile = true
-
-[[files]]
-file = "mods/cctweaks.pw.toml"
-hash = "d46d9f0bee83a142fa4cc63aa99b27795b934a956935a7e15dcd6a8916835296"
 metafile = true
 
 [[files]]
