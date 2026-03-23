@@ -1,0 +1,17 @@
+{
+    "Yellorium": {
+        "template": "uniform",
+        "block": "BigReactors:YelloriteOre",
+        "material": "stone",
+        "clusterSize": 10,
+        "numClusters": 5,
+        "minHeight": 0,
+        "maxHeight": 50,
+        "retrogen": "true",
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
