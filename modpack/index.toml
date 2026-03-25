@@ -2661,6 +2661,10 @@ file = "scripts/IC2.zs"
 hash = "06533f8dfc9a57ddc31223884c0607925d6792bdc511f85e1354a0d928e0709f"
 
 [[files]]
+file = "scripts/MalisisDoors.zs"
+hash = "d29b657de4df9806fdd9d60f221142f2abee7071d8e771cdd494b594f74cb23a"
+
+[[files]]
 file = "scripts/NetherOres.zs"
 hash = "b614be7288cc06916aa0a4bdc33fa6899bdb2f8f234747d564269c7e483f62e6"
 
