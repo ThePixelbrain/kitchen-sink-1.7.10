@@ -2617,6 +2617,11 @@ hash = "094b98b475c35e631a9bb598b6c0e56fc08fa6e37d9e8dac014adb354d5ac7fe"
 metafile = true
 
 [[files]]
+file = "mods/wirelesscraftingterminal.pw.toml"
+hash = "33cd9bf4caae861cf9cc05a28934d7a3c067594cc509fb53750aa91a054d343a"
+metafile = true
+
+[[files]]
 file = "mods/wirelessredstone-cbe.pw.toml"
 hash = "d1c8096dcb62d6bb0e7f01a5efa2fd4ec08bb77b0d05d508d8255dc6886290a0"
 metafile = true
