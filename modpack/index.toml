@@ -2658,6 +2658,10 @@ file = "scripts/ExtraUtilities.zs"
 hash = "6fef0161c95502d9bd3cb791327dd5a1e9331c64c645d090de66d1cef3a74653"
 
 [[files]]
+file = "scripts/GeoStrata.zs"
+hash = "558256a0cf1a3ccac93545fc50e102edac50b27f4115ae070db5110736e84006"
+
+[[files]]
 file = "scripts/GregTech.zs"
 hash = "9e1c6002558835243febaaa43922cd0a9bc691b5e738a84860d6b2e6a4771034"
 
