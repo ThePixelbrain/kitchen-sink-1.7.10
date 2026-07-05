@@ -6,7 +6,7 @@ A modpack for **Minecraft 1.7.10**, using mods I like and want to play with.
 It has no linear progression and allows players to play with the mods they like.
 There are some balancing tweaks to ensure mods have a purpose and that nothing overpowers all other options.
 
-Minecraft 1.7.10 was released [11 years ago](https://howoldisminecraft1710.today/).
+Minecraft 1.7.10 was released [12 years ago](https://howoldisminecraft1710.today/).
 Many mods that were developed for this version stopped receiving official updates a long time ago.
 However, an effort has been made to integrate updated forks, backports, and bug fixes where available and reasonable.
 Most included forks are maintained by the [GTNH community](https://www.gtnewhorizons.com/).
