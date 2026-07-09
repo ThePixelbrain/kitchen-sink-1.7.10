@@ -878,7 +878,7 @@ hash = "7abd6d58a905d4c81864a4fdc93d1c3e514596cd03313ab0fc2290e0f07282a7"
 
 [[files]]
 file = "config/UniDict.cfg"
-hash = "1fb05f4e66e76b6256b061facd316808efc8e652c21891e182e148031a064e7c"
+hash = "a6907599849df2c01d04d41e33eddf8690324d5b1cf8a58a7b3006e5d9896b23"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -2648,6 +2648,10 @@ hash = "b66ac03fd696dcfce6b7524d1b7db40f93cd0632ce17adb55191bf51a50e55a1"
 [[files]]
 file = "scripts/BigReactors.zs"
 hash = "a72c3bac08475712c14e9fab0b3eef4526a81d777939ef01b7827f61b2c341af"
+
+[[files]]
+file = "scripts/DraconicEvolution.zs"
+hash = "d19ac462a13092ee40041d22bc6d43152382a7f13b5729c7f504306b9702cc2c"
 
 [[files]]
 file = "scripts/EnderIO.zs"
