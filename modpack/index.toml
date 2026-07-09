@@ -1989,11 +1989,6 @@ hash = "73b534ea01fde6dac0577920f44103f4c95106d12467b10be696bada7b416d86"
 metafile = true
 
 [[files]]
-file = "mods/chromatifixes.pw.toml"
-hash = "41ee5d1e20c5720c1411cbe71253a30c66f78c3ff610775141cb263dc83a1c1b"
-metafile = true
-
-[[files]]
 file = "mods/chunkpregenerator.pw.toml"
 hash = "397e9dcd459af1f16d1bbe88cbb8b23466f862b3470ce99e4dbb3ac7de52e21a"
 metafile = true
@@ -2031,6 +2026,11 @@ metafile = true
 [[files]]
 file = "mods/dragonapi.pw.toml"
 hash = "e7bf4f445e49c40184b70751a4c47cea5b619bd6e553835976261a07b1c09426"
+metafile = true
+
+[[files]]
+file = "mods/dragonfixes.pw.toml"
+hash = "0303373126c9473265c929f35f94c77170ad77e2ee1cb8582c04d43c114d844b"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "DragonFixes"
+filename = "dragonfixes-2.6.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/unilock/DragonFixes/releases/download/2.6.0/dragonfixes-2.6.0.jar"
+hash-format = "sha256"
+hash = "35bf69dda918f08f9770ee8bf7ccfbab4eeadba845a69174aab734f2afe50b4b"
